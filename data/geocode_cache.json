@@ -1,0 +1,5442 @@
+{
+  "775 Woodlands Parkway Suite 100, Ridgeland, MS 39157": [
+    null,
+    null
+  ],
+  "100 Valley Dr , Pearl, MS 39208": [
+    32.2757061,
+    -90.0637334
+  ],
+  "1255 Trapp Rd , Eagan, MN 55121": [
+    44.8593503,
+    -93.156638
+  ],
+  "100 Valley Drive , Pearl, MS 39208": [
+    32.2757061,
+    -90.0637334
+  ],
+  "201 Wallace St , New Haven, CT 06511": [
+    41.3099221,
+    -72.9106861
+  ],
+  "440 North Main Street , Waterbury, CT 06704": [
+    41.5605657,
+    -73.0343896
+  ],
+  "515 Lindley Street , Bridgeport, CT 06606": [
+    41.1978543,
+    -73.1961649
+  ],
+  "195 Hillandale Avenue , Stamford, CT 06902": [
+    41.063358,
+    -73.5274002
+  ],
+  "255 Walnut Street , West Bridgewater, MA 02379": [
+    42.0413263,
+    -71.0562421
+  ],
+  "275 N Main St , Rutland, VT 05701": [
+    null,
+    null
+  ],
+  "777 Scudders Mill Rd Bldg #2, Plainsboro, NJ 08536": [
+    null,
+    null
+  ],
+  "6907 North 9th Ave , Pensacola, FL 32504": [
+    30.4948067,
+    -87.1899886
+  ],
+  "2373 Euclid Heights Blvd , Cleveland Heights, OH 44106": [
+    41.502852,
+    -81.595496
+  ],
+  "1601 Fairfax Trafficway C/O Midwest Refrigeration, Kansas City, KS 66115": [
+    null,
+    null
+  ],
+  "1807 Pine Street , Monroe, LA 71201": [
+    32.5160966,
+    -92.1054911
+  ],
+  "1008 Burnett Street , Wichita Falls, TX 76307": [
+    33.9072376,
+    -98.494853
+  ],
+  "700 Generation Pt , Kissimmee, FL 34744": [
+    28.2854005,
+    -81.3597746
+  ],
+  "1901 Island Walk Way , Fernandina Beach, FL 32034": [
+    30.640858,
+    -81.457236
+  ],
+  "100 Valley Dr Suite 200, Pearl, MS 39208": [
+    null,
+    null
+  ],
+  "741 West Madison , Houston, MS 38851": [
+    33.8941189,
+    -89.027166
+  ],
+  "655 Highway 6 East Suite D, Batesville, MS 38606": [
+    null,
+    null
+  ],
+  "455 Rosa L Jones Dr , Cocoa, FL 32922": [
+    28.349349,
+    -80.7434851
+  ],
+  "515 S Main Av , Magee, MS 39111": [
+    31.8681958,
+    -89.732303
+  ],
+  "3335 Highway 49 South , WIGGINS, MS 39577": [
+    null,
+    null
+  ],
+  "170 Carando Dr Unit 18, Springfield, MA 01104": [
+    null,
+    null
+  ],
+  "5151 East 51st St , TULSA, OK 74135": [
+    36.0902519,
+    -95.9186317
+  ],
+  "9193 Winkler, Suite A , Houston, TX 77017": [
+    null,
+    null
+  ],
+  "2801 Valley Ave , Lufkin, TX 75901": [
+    31.3264293,
+    -94.6954222
+  ],
+  "4590 Concord Road , Beaumont, TX 77703": [
+    30.1183356,
+    -94.1383858
+  ],
+  "3206 University Ave , Des Moines, IA 50311": [
+    41.5999061,
+    -93.6611343
+  ],
+  "3611 Westbank Expy , Harvey, LA 70058": [
+    29.8970376,
+    -90.0871755
+  ],
+  "2626 Hilltop Dr , Sherman, TX 75090": [
+    33.6839205,
+    -96.5827424
+  ],
+  "5450 Ramona Blvd , Jacksonville, FL 32205": [
+    30.3136297,
+    -81.7403214
+  ],
+  "609 Foster St , Durham, NC 27701": [
+    36.0026998,
+    -78.9016832
+  ],
+  "18249 Quarry Rd , Warrenton, MO 63383": [
+    null,
+    null
+  ],
+  "1000 Union Ave , Fairfield, CA 94533": [
+    38.252556,
+    -122.040364
+  ],
+  "5740 Airport Fwy , Haltom City, TX 76117": [
+    32.7863744,
+    -97.2648677
+  ],
+  "8060 Stinson Rd , Milan, TN 38358": [
+    35.8820538,
+    -88.7839696
+  ],
+  "136 Park South Ct , Nashville, TN 37210": [
+    36.1268481,
+    -86.7396441
+  ],
+  "501 Charlie Davis RD , Alto, GA 30510": [
+    null,
+    null
+  ],
+  "2100 Pike Ave , North Little Rock, AR 72114": [
+    34.7754381,
+    -92.2784096
+  ],
+  "501 West Waco Drive , Waco, TX 76707": [
+    31.561368,
+    -97.137619
+  ],
+  "2675 s Detroit Ave , Maumee, OH 43537": [
+    41.5838418,
+    -83.6184164
+  ],
+  "515 S Haven St , Baltimore, MD 21224": [
+    39.2860779,
+    -76.5619642
+  ],
+  "11811 S. Sunset Drive , Olathe, KS 66061": [
+    38.9147416,
+    -94.7984356
+  ],
+  "1155 E 9th St , Reno, NV 89512": [
+    39.5391183,
+    -119.7991891
+  ],
+  "3227 E 5th St , Austin, TX 78702": [
+    30.2545215,
+    -97.7061966
+  ],
+  "1980 Bagley , Detroit, MI 48216": [
+    42.327646,
+    -83.0710747
+  ],
+  "3001 Robertson Road , Tyler, TX 75701": [
+    32.3330953,
+    -95.3319696
+  ],
+  "225 30Th Street , San Francisco, CA 94131": [
+    37.7418648,
+    -122.425251
+  ],
+  "9255 Beatty Dr , Sacramento, CA 95826": [
+    38.5391156,
+    -121.3562656
+  ],
+  "6559 County Road 81 , Danville, AL 35619": [
+    null,
+    null
+  ],
+  "2267-C South Forbes Dr , Montgomery, AL 36110": [
+    32.413132,
+    -86.2975075
+  ],
+  "100 Saraland Loop , Saraland, AL 36571": [
+    30.825574,
+    -88.073909
+  ],
+  "100 Mercy Oaks Dr , Redding, CA 96003": [
+    40.6169088,
+    -122.3294861
+  ],
+  "3848 Salem Rd , Enterprise, AL 36330": [
+    31.3604783,
+    -85.8694346
+  ],
+  "2267 S Forbes Dr Ste C, Montgomery, AL 36110": [
+    null,
+    null
+  ],
+  "516 Veterans Way , Guntersville, AL 35976": [
+    34.3185888,
+    -86.3117258
+  ],
+  "2525 2nd St W , Birmingham, AL 35204": [
+    33.5390565,
+    -86.8407959
+  ],
+  "3210-B Hollywood Ave , Shreveport, LA 71108": [
+    32.456184,
+    -93.7584366
+  ],
+  "7333 County Road 33 , Orrville, AL 36767": [
+    32.3027105,
+    -87.241354
+  ],
+  "1440 West Mocking Bird Lane Suite 500, Dallas, TX 75247": [
+    null,
+    null
+  ],
+  "6720 L St , Omaha, NE 68117": [
+    41.2123983,
+    -96.0577219
+  ],
+  "200 N 3rd St , Leesville, LA 71446": [
+    null,
+    null
+  ],
+  "525 14th St Suite 200, San Diego, CA 92101": [
+    null,
+    null
+  ],
+  "9590 Chesapeake Dr , San Diego, CA 92123": [
+    32.8344837,
+    -117.1235394
+  ],
+  "203 Kimberly Dr , Cleburne, TX 76031": [
+    32.3252688,
+    -97.3765824
+  ],
+  "39 Olympia Ave Unit 1, Woburn, MA 01801": [
+    null,
+    null
+  ],
+  "613 W Simcoe St , Lafayette, LA 70501": [
+    30.2304641,
+    -92.022073
+  ],
+  "3155 W Pinhook Rd , Lafayette, LA 70508": [
+    30.1682981,
+    -91.9993733
+  ],
+  "2236 Southern Avenue , Fayetteville, NC 28306": [
+    35.022598,
+    -78.90087
+  ],
+  "1845 Beaumont Drive , BATON ROUGE, LA 70806": [
+    30.4670137,
+    -91.1095644
+  ],
+  "238 South Preston , Marksville, LA 71351": [
+    31.1220986,
+    -92.0633876
+  ],
+  "203 Central Avenue , Trion, GA 30753": [
+    34.5365867,
+    -85.3086783
+  ],
+  "615 Derby Street , Chattanooga, TN 37404": [
+    35.0408249,
+    -85.2627769
+  ],
+  "910 Vance Ave , Memphis, TN 38126": [
+    35.1337055,
+    -90.032449
+  ],
+  "857 Floyd Drive , Lexington, KY 40505": [
+    38.0480127,
+    -84.4664478
+  ],
+  "1601 Kilgore Avenue , Muncie, IN 47304": [
+    40.1856331,
+    -85.4063451
+  ],
+  "1675 Walsh Ave Ste 1 , Santa Clara, CA 95050": [
+    null,
+    null
+  ],
+  "1409 Auto Center Drive , ANTIOCH, CA 94509": [
+    38.0155817,
+    -121.8221407
+  ],
+  "3630 Aviation Way , Medford, OR 97504": [
+    42.368558,
+    -122.862253
+  ],
+  "1407 B Cross Street , Eugene, OR 97402": [
+    44.0609856,
+    -123.1299825
+  ],
+  "2655 Hyacinth St NE , Salem, OR 97301": [
+    44.9803513,
+    -122.9979359
+  ],
+  "34600 Cape Kiwanda Dr , PACIFIC CITY, OR 97135": [
+    45.2048156,
+    -123.966816
+  ],
+  "849 F Street #300, West Sacramento, CA 95605": [
+    null,
+    null
+  ],
+  "1675 Walsh #1 , Santa Clara, CA 95050": [
+    null,
+    null
+  ],
+  "2001 South State Street SL-200 , Salt Lake City, UT 84190": [
+    null,
+    null
+  ],
+  "480 Neponset St Bldg 4 Sect 4b, Canton, MA 02021": [
+    null,
+    null
+  ],
+  "114 Delafield Street , Poughkeepsie, NY 12601": [
+    41.7150783,
+    -73.9340012
+  ],
+  "50 Prince St , Rochester, NY 14607": [
+    43.1594572,
+    -77.5889798
+  ],
+  "3355 E Gage Ave , Huntington Park, CA 90255": [
+    33.9801449,
+    -118.2060261
+  ],
+  "8329 De Celis Place , North Hills, CA 91343": [
+    34.2217085,
+    -118.4960634
+  ],
+  "111 N Locust St , Inglewood, CA 90301": [
+    33.963776,
+    -118.3504856
+  ],
+  "4808 Chesapeak Dr , Charlotte, NC 28216": [
+    null,
+    null
+  ],
+  "101 Pine Park Drive , Lafayette, LA 70508": [
+    30.167643,
+    -91.999146
+  ],
+  "500 E 52nd St N , Sioux Falls, SD 57104": [
+    null,
+    null
+  ],
+  "500 E 52nd Street North , Sioux Falls, SD 57104": [
+    43.5928591,
+    -96.7200445
+  ],
+  "1316 North 14th Street , Superior, WI 54880": [
+    46.721527,
+    -92.0967535
+  ],
+  "581 Hwy 23 NE , Foley, MN 56329": [
+    null,
+    null
+  ],
+  "303 Minnesota Avenue W PO Box 1119, Walker, MN 56484": [
+    null,
+    null
+  ],
+  "435 E Derrynane St , Le Center, MN 56057": [
+    44.3843708,
+    -93.7267314
+  ],
+  "1580 Highway 55 , Hastings, MN 55033": [
+    null,
+    null
+  ],
+  "440 1st Avenue NE , Grand Rapids, MN 55744": [
+    47.2363712,
+    -93.526639
+  ],
+  "1428 Stony Rd , Detroit Lakes, MN 56501": [
+    46.8433694,
+    -95.8590485
+  ],
+  "Attn: Jeff Larson 313 Laurel St 11600 State Avenue, Brainerd, MN 56401": [
+    null,
+    null
+  ],
+  "326 No Ramsey , Litchfield, MN 55355": [
+    null,
+    null
+  ],
+  "213 Main Ave N Dept 101, Bagley, MN 56621": [
+    null,
+    null
+  ],
+  "416 S Mill St , Fergus Falls, MN 56537": [
+    46.2801669,
+    -96.0743398
+  ],
+  "151 4th St SE , Rochester, MN 55904": [
+    44.019372,
+    -92.4603678
+  ],
+  "807 Courthouse Square , St. Cloud, MN 56302": [
+    45.5610651,
+    -94.1635069
+  ],
+  "401 Carver Rd , Mankato, MN 56001": [
+    44.1616937,
+    -93.9373777
+  ],
+  "635 Northridge Dr NW Suite 130 , Pine City, MN 55063": [
+    null,
+    null
+  ],
+  "301 Court Avenue , Park Rapids, MN 56470": [
+    46.9199091,
+    -95.0642841
+  ],
+  "640 3rd St SE , Milaca, MN 56353": [
+    45.7534983,
+    -93.643027
+  ],
+  "515 Dacotah Avenue , Breckenridge, MN 56520": [
+    46.2601138,
+    -96.5870001
+  ],
+  "15880 East Fifth St , Hayward, WI 54843": [
+    46.018333,
+    -91.484882
+  ],
+  "2500 Alexander St , Owatonna, MN 55060": [
+    44.075049,
+    -93.260117
+  ],
+  "400 Annandale Boulevard , Annandale, MN 55302": [
+    45.2550512,
+    -94.1013814
+  ],
+  "415 South Jefferson , Wadena, MN 56482": [
+    46.4381784,
+    -95.1392
+  ],
+  "104 4TH STREET SOUTH , Olivia, MN 56277": [
+    44.776382,
+    -94.9812492
+  ],
+  "3300 4th Ave , Anoka, MN 55303": [
+    45.21246,
+    -93.385089
+  ],
+  "604 5th Ave. SW , Roseau, MN 56751": [
+    null,
+    null
+  ],
+  "801 East 10th Street , Glencoe, MN 55336": [
+    44.76915,
+    -94.151548
+  ],
+  "100 South Vine Street , Mora, MN 55051": [
+    45.876585,
+    -93.293932
+  ],
+  "611 West Main Street , Marshall, MN 56258": [
+    44.4505262,
+    -95.7939856
+  ],
+  "571 County Road A , Green Lake, WI 54941": [
+    43.831732,
+    -88.9288292
+  ],
+  "7410 County Road K, #122 , Siren, WI 54872": [
+    null,
+    null
+  ],
+  "320 Dr H Russ St , Blue Earth, MN 56013": [
+    null,
+    null
+  ],
+  "500 Rolfs Ave , West Bend, WI 53090": [
+    43.42837,
+    -88.1722514
+  ],
+  "1420 State Highway 25 North , Barron, WI 54812": [
+    45.4044891,
+    -91.8485648
+  ],
+  "509 18th Avenue SW , Cambridge, MN 55008": [
+    45.5561785,
+    -93.2288862
+  ],
+  "1203 S Duluth Ave , Sturgeon Bay, WI 54235": [
+    null,
+    null
+  ],
+  "635 Northridge Drive , Pine City, MN 55063": [
+    45.8528809,
+    -92.9716981
+  ],
+  "421 Hwy 63 , Shell Lake, WI 54871": [
+    45.7258902,
+    -91.9334145
+  ],
+  "1701 N Washington Street A , Grand Forks, ND 58203": [
+    47.935792,
+    -97.055851
+  ],
+  "816 Marin Ave, Suite 110 , Crookston, MN 56716": [
+    null,
+    null
+  ],
+  "22 Klein Street , Walterboro, SC 29488": [
+    32.9013069,
+    -80.6692078
+  ],
+  "1215 W 3rd St , Cleveland, OH 44113": [
+    41.5011909,
+    -81.697464
+  ],
+  "4000 Edith NE , Albuquerque, NM 87107": [
+    35.1187643,
+    -106.6294019
+  ],
+  "10015 Robert Larson Blvd , Las Cruces, NM 88007": [
+    32.2654781,
+    -106.9734828
+  ],
+  "201 State Highway 468 , Springer, NM 87747": [
+    null,
+    null
+  ],
+  "223 W High St , Tucumcari, NM 88401": [
+    35.17603,
+    -103.7277555
+  ],
+  "3701 S Atkinson , Roswell, NM 88201": [
+    33.3516794,
+    -104.5055424
+  ],
+  "3405 Pan American Freeway , Albuquerque, NM 87107": [
+    35.114542,
+    -106.6260044
+  ],
+  "1401 South Commercial , Lovington, NM 88260": [
+    32.934241,
+    -103.3390551
+  ],
+  "26 NM-283 , Las Vegas, NM 87701": [
+    35.557635,
+    -105.2279757
+  ],
+  "83 Old Highway 70 , Lordsburg, NM 88045": [
+    null,
+    null
+  ],
+  "1001 Grefco Road , Socorro, NM 87801": [
+    null,
+    null
+  ],
+  "105 Albright Street, Suite O , Taos, NM 87571": [
+    null,
+    null
+  ],
+  "300 Shakespeare St , Lordsburg, NM 88045": [
+    32.3480102,
+    -108.707989
+  ],
+  "26 NM-283 , Las Vegas, NM 87031": [
+    35.557635,
+    -105.2279757
+  ],
+  "1525 Morris Road , Los Lunas, NM 87031": [
+    34.7878173,
+    -106.7662087
+  ],
+  "578 W Chickasaw Road , Hagerman, NM 88232": [
+    null,
+    null
+  ],
+  "2111 Lobo Canyon Rd , Grants, NM 87020": [
+    35.1803195,
+    -107.7982095
+  ],
+  "1983 Joe R Silva Blvd , Las Cruces, NM 88004": [
+    null,
+    null
+  ],
+  "26600 Mohave Road , Parker, AZ 85344": [
+    34.1273724,
+    -114.3092621
+  ],
+  "940 New Salem Hwy , Murfreesboro, TN 37129": [
+    35.8367311,
+    -86.409473
+  ],
+  "79 Elkins Road , Port Hadlock, WA 98339": [
+    48.0241637,
+    -122.764488
+  ],
+  "815 Wheeler Ave NW , Huntsville, AL 35801": [
+    34.7389446,
+    -86.5970275
+  ],
+  "3344 Presson Rd , Monroe, NC 28112": [
+    34.9771756,
+    -80.4660128
+  ],
+  "201 Suzanne Lane , Mount Vernon, WA 98273": [
+    48.3943932,
+    -122.3344109
+  ],
+  "3950 Juvenile Center Rd , Castle Hayne, NC 28429": [
+    null,
+    null
+  ],
+  "527 Dr MLK Drive South , Columbus, MS 39701": [
+    null,
+    null
+  ],
+  "1016 North 4th , Pasco, WA 99301": [
+    null,
+    null
+  ],
+  "321-GA Hwy 119 S , Springfield, GA 31329": [
+    null,
+    null
+  ],
+  "521 Vermont St , Quincy, IL 62301": [
+    39.9345858,
+    -91.4079417
+  ],
+  "11801 Go For Broke Rd , Roseville, CA 95678": [
+    38.8079101,
+    -121.3020118
+  ],
+  "131 E Earl Cummings Loop , Roswell, NM 88203": [
+    33.3122828,
+    -104.5133038
+  ],
+  "2000 Northwestern Dr , Coal Run, PA 17866": [
+    null,
+    null
+  ],
+  "1021 Columbia Blvd Ste B, Longview, WA 98632": [
+    null,
+    null
+  ],
+  "801 North Main , Clovis, NM 88101": [
+    null,
+    null
+  ],
+  "100 W Broadway Ave #3 , Montesano, WA 98563": [
+    null,
+    null
+  ],
+  "2293 N Main Street , Crown Point, IN 46307": [
+    41.4477388,
+    -87.3699136
+  ],
+  "1303 3rd Avenue Rm 101 Payette , Payette, ID 83661": [
+    null,
+    null
+  ],
+  "4311 NM 14 , Sante Fe, NM 87508": [
+    null,
+    null
+  ],
+  "4337 NM 14 , Sante Fe, NM 87508": [
+    null,
+    null
+  ],
+  "8820 US-61 , Lancaster, WI 53813": [
+    42.8257232,
+    -90.6875287
+  ],
+  "1200 N Grand Ave , Montrose, CO 81401": [
+    38.4863622,
+    -107.8904804
+  ],
+  "300 North Denver Ave , TULSA, OK 74103": [
+    36.1572816,
+    -95.9990129
+  ],
+  "700 Court Street , Jackson, CA 95642": [
+    38.3515278,
+    -120.7693285
+  ],
+  "50140B US 191 South Ste 100 , Rock Springs, WY 82901": [
+    null,
+    null
+  ],
+  "721 West 12th Street , Ogden, UT 84404": [
+    41.244357,
+    -111.9950583
+  ],
+  "721 W 12th St , Ogden, UT 84404": [
+    41.244357,
+    -111.9950583
+  ],
+  "1804 Opportunity Way , Chambersburg, PA 17201": [
+    null,
+    null
+  ],
+  "130 Government Drive , Morganton, NC 28680": [
+    35.7195498,
+    -81.6748357
+  ],
+  "100 Deputy Dean Miera Dr SW , Albuquerque, NM 87151": [
+    35.0075095,
+    -106.8573024
+  ],
+  "3830 S Cobb Dr , Smyrna, GA 30082": [
+    33.8607771,
+    -84.5181673
+  ],
+  "531 S Broad St , New Orleans, LA 70119": [
+    null,
+    null
+  ],
+  "110 Public Safety Dr , Grand Island, NE 68801": [
+    null,
+    null
+  ],
+  "314 E 6th St , Waterloo, IA 50703": [
+    42.4977784,
+    -92.3325771
+  ],
+  "1520 E Basin Avenue , Pahrump, NV 89060": [
+    36.2203785,
+    -115.9862191
+  ],
+  "70 Stamp Act Dr NE , Bolivia, NC 28422": [
+    null,
+    null
+  ],
+  "655 FM 2821 Rd W , Huntsville, TX 77320": [
+    null,
+    null
+  ],
+  "311 Grand Ave , Bellingham, WA 98225": [
+    48.7540871,
+    -122.4797023
+  ],
+  "185 Dr Michael Jenkins Rd , Clayton, NM 88415": [
+    null,
+    null
+  ],
+  "3000 W 93rd Ave , Crown Point, IN 46307": [
+    41.4495016,
+    -87.3728902
+  ],
+  "800 W State St , Farmington, UT 84025": [
+    null,
+    null
+  ],
+  "2941 US-51 , Canton, MS 39046": [
+    32.5864854,
+    -90.0445377
+  ],
+  "107 North 5th Street Suite 114, Douglas, WY 82633": [
+    null,
+    null
+  ],
+  "76 County Jail Ln , Manchester, TN 37355": [
+    null,
+    null
+  ],
+  "437 Swan Avenue , Hohenwald, TN 38462": [
+    35.5537731,
+    -87.5410139
+  ],
+  "4820 She Nah Num Dr SE , Olympia, WA 98513": [
+    47.0039329,
+    -122.6701898
+  ],
+  "621 E Presentation St , Sioux Falls, SD 57104": [
+    43.5773739,
+    -96.7201262
+  ],
+  "600 W Graham Canal Road , Safford, AZ 85546": [
+    32.8572628,
+    -109.7145694
+  ],
+  "52 University Blvd , Roswell, NM 88203": [
+    33.3105111,
+    -104.5233218
+  ],
+  "1115 Jackson Street SE , Albany, OR 97322": [
+    44.6296984,
+    -123.0973576
+  ],
+  "3347 Tamiami Trail E , Naples, FL 34112": [
+    26.1256675,
+    -81.7645406
+  ],
+  "302 Stockade Road , Immokalee, FL 34142": [
+    26.3967312,
+    -81.4150395
+  ],
+  "2405 Midpoint Dr , Fort Collins, CO 80525": [
+    40.5638422,
+    -105.0345356
+  ],
+  "4491 Cerrillos Rd , Santa Fe, NM 87507": [
+    35.6292067,
+    -106.0277006
+  ],
+  "101 North Kansas Ave , Olathe, KS 66061": [
+    38.8829377,
+    -94.8210306
+  ],
+  "141 Mission Pkwy , Gardner Township, KS 66031": [
+    null,
+    null
+  ],
+  "27745 West 159th Street , New Century, KS 66031": [
+    null,
+    null
+  ],
+  "4235 Alma Highway , Van Buren, AR 72956": [
+    35.4523425,
+    -94.3075502
+  ],
+  "525 Ouachita Ave , Hot Springs, AR 71901": [
+    34.5039249,
+    -93.0590325
+  ],
+  "3165 King Ave E , Billings, MT 59101": [
+    45.7553863,
+    -108.5025062
+  ],
+  "1107 Main Street , Collins, MS 39428": [
+    31.6347063,
+    -89.574355
+  ],
+  "26 Pickerton St. , Milan, GA 31060": [
+    null,
+    null
+  ],
+  "1494 Elm St , Dubuque, IA 52001": [
+    42.5081378,
+    -90.663698
+  ],
+  "1039 Agua Negra Rd , Santa Rosa, NM 88435": [
+    34.9078678,
+    -104.7028459
+  ],
+  "200 Hand Ave , Bay Minette, AL 36507": [
+    30.88454,
+    -87.774769
+  ],
+  "201 Main St , Purvis, MS 39475": [
+    31.144174,
+    -89.412446
+  ],
+  "1180 Co Rd 16 , Fairplay, CO 80440": [
+    null,
+    null
+  ],
+  "175 Yaney Ave , Sonora, CA 95370": [
+    37.9845983,
+    -120.3856598
+  ],
+  "511 Capitol St. , Iowa City, IA 52240": [
+    41.6550328,
+    -91.5365512
+  ],
+  "2960 Dory Hill Rd , Black Hawk, CO 80422": [
+    null,
+    null
+  ],
+  "1555 Colfax Street , Blair, NE 68008": [
+    41.5403558,
+    -96.1348649
+  ],
+  "1 Jerry Smith Cir , Roswell, NM 88203": [
+    33.3067025,
+    -104.5189882
+  ],
+  "1077 Civic Center Blvd , Yuba City, CA 95993": [
+    39.1433959,
+    -121.6391219
+  ],
+  "6438 Kootenai St , Bonners Ferry, ID 83805": [
+    48.6957993,
+    -116.3134024
+  ],
+  "45 Major Bell Ln , Gettysburg, PA 17325": [
+    39.8585382,
+    -77.1579794
+  ],
+  "800 Ward Ave , Caruthersville, MO 63830": [
+    36.1886113,
+    -89.6582297
+  ],
+  "2777 Ventura Ave , Santa Rosa, CA 95403": [
+    38.4676824,
+    -122.725991
+  ],
+  "1101 Carmichael Rd , Hudson, WI 54016": [
+    44.9815971,
+    -92.7226808
+  ],
+  "100 S Park Ave , Crandon, WI 54520": [
+    45.569199,
+    -88.900715
+  ],
+  "15230 Per Rd , Center City, MN 55012": [
+    45.3849319,
+    -92.7979824
+  ],
+  "389 NW Quiten St , Lake City, FL 32055": [
+    null,
+    null
+  ],
+  "201 Lake Ave #199, Fairmont, MN 56031": [
+    null,
+    null
+  ],
+  "1825 County Services Pkwy SW , Marietta, GA 30008": [
+    null,
+    null
+  ],
+  "Low Gap Rd , Ukiah, CA 95482": [
+    39.1606684,
+    -123.2179265
+  ],
+  "215 S Oak St , Colville, WA 99114": [
+    48.5426524,
+    -117.903287
+  ],
+  "3395 FL-51 , Jasper, FL 32052": [
+    null,
+    null
+  ],
+  "450 Saint Emanuel St , Mobile, AL 36603": [
+    30.6805936,
+    -88.0420489
+  ],
+  "510 9th Street , Lynchburg, VA 24504": [
+    37.4126447,
+    -79.1451024
+  ],
+  "510 9th St , Lynchburg, VA 24504": [
+    37.4126447,
+    -79.1451024
+  ],
+  "219 s Riverview Rd , Madison Heights, VA 24572": [
+    37.4088619,
+    -79.093253
+  ],
+  "1175 Floyd Street , Kennett, MO 63857": [
+    36.2490286,
+    -90.0444522
+  ],
+  "826 N Franklin Street , Junction City, KS 66441": [
+    39.0310616,
+    -96.827818
+  ],
+  "18600 Hobson Street , Whitehall, WI 54773": [
+    44.3664038,
+    -91.3198908
+  ],
+  "1 Bruns Ln , Union, MO 63084": [
+    38.4588931,
+    -90.9918658
+  ],
+  "5995 Long Prairie Rd , Tillamook, OR 97141": [
+    45.426814,
+    -123.8038987
+  ],
+  "2371 7th Street SE , Valley City, ND 58072": [
+    46.9169481,
+    -97.9916375
+  ],
+  "1743 Jefferson Davis Highway , Stafford, VA 22554": [
+    38.3240219,
+    -77.4683859
+  ],
+  "425 Imlerton Road , Bedford, PA 15522": [
+    null,
+    null
+  ],
+  "216 C. David Stone Road , Pickens, SC 29671": [
+    34.871674,
+    -82.7019082
+  ],
+  "450 Winn Way , Decatur, GA 30030": [
+    33.7821137,
+    -84.279397
+  ],
+  "180 Paul Sikes Dr , Hinesville, GA 31313": [
+    31.785332,
+    -81.637601
+  ],
+  "1030 Rock Spring Rd , Bel Air, MD 21014": [
+    39.5418495,
+    -76.358373
+  ],
+  "4913 HellBush Dr , Lakeport, CA 95453": [
+    null,
+    null
+  ],
+  "1512 Central Ave , Kearney, NE 68847": [
+    40.6894777,
+    -99.0820509
+  ],
+  "399 S Front St , Columbus, OH 43215": [
+    39.9540119,
+    -83.0019892
+  ],
+  "1250 SE 19th St , Warrenton, OR 97146": [
+    46.1426005,
+    -123.906791
+  ],
+  "2700 S California Blvd , Chicago, IL 60608": [
+    41.844676,
+    -87.69455
+  ],
+  "3613 Stetzer Road , Bucyrus, OH 44820": [
+    40.8147771,
+    -82.9391049
+  ],
+  "1565 F E Sellers Hwy , Jayess, MS 39641": [
+    null,
+    null
+  ],
+  "710 2nd Avenue , Eau Claire, WI 54703": [
+    44.8098094,
+    -91.5048081
+  ],
+  "3800 Ulm North Frontage Road , Great Falls, MT 59404": [
+    47.4603145,
+    -111.404435
+  ],
+  "6001 12th Ave E. , Tuscaloosa, AL 35405": [
+    33.153489,
+    -87.521579
+  ],
+  "1671 Preston Hwy , Shepherdsville, KY 40165": [
+    37.9758756,
+    -85.7179864
+  ],
+  "601 E Overland Ave , El Paso, TX 79901": [
+    31.7585318,
+    -106.4831449
+  ],
+  "12501 Montana Ave , El Paso, TX 79938": [
+    31.8097154,
+    -106.2531097
+  ],
+  "100 N Court St , Westminster, MD 21157": [
+    39.5720979,
+    -76.9870818
+  ],
+  "333 S Franklin St , Decatur, IL 62523": [
+    39.8392433,
+    -88.9536848
+  ],
+  "124 N Lincoln Ave , Jerome, ID 83338": [
+    42.724312,
+    -114.518359
+  ],
+  "1101 Jefferson St NW , Atlanta, GA 30318": [
+    33.7757223,
+    -84.4230379
+  ],
+  "122 S 3rd St , Muskogee, OK 74401": [
+    null,
+    null
+  ],
+  "901 Court Street , Martinez, CA 94553": [
+    38.0171894,
+    -122.1332331
+  ],
+  "535 N E 5th Street , McMinnville, OR 97128": [
+    null,
+    null
+  ],
+  "455 7th St , Oakland, CA 94607": [
+    37.7993861,
+    -122.2751395
+  ],
+  "63333 W Highway 20 , Bend, OR 97703": [
+    null,
+    null
+  ],
+  "100 Sulphur Springs Road , Brunswick, GA 31520": [
+    null,
+    null
+  ],
+  "705 Justice Drive , Somerville, TN 38068": [
+    null,
+    null
+  ],
+  "7947 Mission Center Ct , San Diego, CA 92108": [
+    32.7732938,
+    -117.1523288
+  ],
+  "3853 Rosecrans St , San Diego, CA 92110": [
+    32.7528875,
+    -117.201988
+  ],
+  "1200 E James Lee Blvd , Crestview, FL 32536": [
+    30.7629513,
+    -86.5581337
+  ],
+  "603 1st Street , New Town, ND 58763": [
+    null,
+    null
+  ],
+  "8031 I 76 Service Rd , Henderson, CO 80640": [
+    null,
+    null
+  ],
+  "11500 W Security Ave , Lakewood, CO 80215": [
+    39.7371827,
+    -105.1270923
+  ],
+  "1700 N Boston Ave , Portales, NM 88130": [
+    34.1978976,
+    -103.3339949
+  ],
+  "500 Forest St , Wausau, WI 54403": [
+    44.9577525,
+    -89.6247956
+  ],
+  "1000 Grove St , Vicksburg, MS 39183": [
+    32.351511,
+    -90.878089
+  ],
+  "300 Memorial Drive , South Bend, WA 98586": [
+    46.6624812,
+    -123.8103399
+  ],
+  "146 N 2nd St W , St Anthony, ID 83445": [
+    null,
+    null
+  ],
+  "1 Justice Drive , Senatobia, MS 38668": [
+    34.6117909,
+    -89.9934051
+  ],
+  "911 Harvey Way, #1 , Yerington, NV 89447": [
+    null,
+    null
+  ],
+  "28 Camino Justicia , Santa Fe, NM 87508": [
+    35.5628541,
+    -106.0501326
+  ],
+  "560 Barnes St , Baxley, GA 31513": [
+    31.7835999,
+    -82.3585083
+  ],
+  "120 Lancaster Circle , Houston, MS 38851": [
+    null,
+    null
+  ],
+  "901 Rice St NW , Atlanta, GA 30318": [
+    33.7757147,
+    -84.4256057
+  ],
+  "500 South Pine Street , West Union, IA 52175": [
+    42.955419,
+    -91.804496
+  ],
+  "5700 Ball Street , Galveston, TX 77551": [
+    29.2918873,
+    -94.8312758
+  ],
+  "9157 Tara Blvd , Jonesboro, GA 30236": [
+    33.5051893,
+    -84.3586331
+  ],
+  "127 2nd St, Asotin, WA 99402 , Asotin, WA 99402": [
+    null,
+    null
+  ],
+  "4436 Calle Real , Santa Barbara, CA 93110": [
+    34.4424641,
+    -119.7766475
+  ],
+  "650 Addison Ave , Twin Falls, ID 83301": [
+    42.563216,
+    -114.467357
+  ],
+  "13 Crossbar Rd , Grayson, KY 41143": [
+    38.3311035,
+    -82.9373222
+  ],
+  "224 26th St , Newport News, VA 23607": [
+    36.978667,
+    -76.4295298
+  ],
+  "350 25Th St , Newport News, VA 23607": [
+    36.9784478,
+    -76.4273838
+  ],
+  "73 E 2nd St , Mansfield, OH 44902": [
+    40.7574585,
+    -82.512842
+  ],
+  "503 N Main Street , Coupeville, WA 98239": [
+    null,
+    null
+  ],
+  "205 West Fifth Ave #180 , Ellensburg, WA 98926": [
+    null,
+    null
+  ],
+  "1230 Central Avenue South , Kent, WA 98031": [
+    47.3686225,
+    -122.2293527
+  ],
+  "411 N 4th Street , Shelton, WA 98584": [
+    47.2156258,
+    -123.103342
+  ],
+  "203 North Perry Parkway , Perry, GA 31069": [
+    32.4841572,
+    -83.714068
+  ],
+  "575 Scott High Drive , Huntsville, TN 37756": [
+    36.4062395,
+    -84.5325341
+  ],
+  "119 Pinewood Road , Leesburg, GA 31763": [
+    null,
+    null
+  ],
+  "414 Main Street , Wartburg, TN 37887": [
+    36.104784,
+    -84.597865
+  ],
+  "221 North Timber Street , BRANDON, MS 39042": [
+    32.2746951,
+    -89.9858577
+  ],
+  "243 S Broad Street , Liberty, MS 39645": [
+    31.1566843,
+    -90.8110317
+  ],
+  "27 West 8th Avenue , Bay Springs, MS 39422": [
+    31.9748288,
+    -89.2899929
+  ],
+  "215 Justice Street , Brookhaven, MS 39601": [
+    31.57609,
+    -90.4416296
+  ],
+  "714 Highway 251 , Darien, GA 31305": [
+    null,
+    null
+  ],
+  "500 County Farm Rd , Nashville, GA 31639": [
+    31.191674,
+    -83.262152
+  ],
+  "911 Clarks Mill Rd , Louisville, GA 30434": [
+    33.0197508,
+    -82.4061667
+  ],
+  "34 Badge Road , Hawkinsville, GA 31036": [
+    null,
+    null
+  ],
+  "1004 1007 Spruce Street Ext. , Fort Valley, GA 31030": [
+    null,
+    null
+  ],
+  "300 West Pine Street , Colquitt, GA 39837": [
+    31.1746954,
+    -84.7384357
+  ],
+  "71 Sunflower Avenue , Clarksdale, MS 38614": [
+    34.2021494,
+    -90.5758909
+  ],
+  "145 School Street , Lincolnton, GA 30817": [
+    33.794136,
+    -82.47539
+  ],
+  "118 Church St. 108 College Ave , Centerville, TN 37033": [
+    null,
+    null
+  ],
+  "137 Seven Clans Lane , Cherokee, NC 28719": [
+    35.4743798,
+    -83.3272443
+  ],
+  "500 E 52nd Street N , Sioux Falls, SD 57103": [
+    null,
+    null
+  ],
+  "3009 Wright Ave , North Platte, NE 69101": [
+    41.13585,
+    -100.797264
+  ],
+  "2954 St. Charles Ave. , Las Cruces, NM 88012": [
+    null,
+    null
+  ],
+  "21857 Monroe Rd , Damascus, VA 24236": [
+    null,
+    null
+  ],
+  "12809 Rio Lindo St , Rosharon, TX 77583": [
+    null,
+    null
+  ],
+  "17248 110th Ave SE , Yelm, WA 98597": [
+    46.9278354,
+    -122.5727729
+  ],
+  "10910 NE 36th Ct , Vancouver, WA 98686": [
+    45.7008838,
+    -122.634605
+  ],
+  "121 Castner St , Belt, MT 59412": [
+    47.3885071,
+    -110.9269152
+  ],
+  "515 N 8th St , Beatrice, NE 68310": [
+    40.2708463,
+    -96.744031
+  ],
+  "2006 County Road 1380 , Blanchard, OK 73010": [
+    null,
+    null
+  ],
+  "7412 Alpine Dr , El Paso, TX 79915": [
+    31.759705,
+    -106.3683469
+  ],
+  "2709 Waterford Crystal Ct , Raleigh, NC 27610": [
+    35.749109,
+    -78.6024462
+  ],
+  "161 Montecito Dr , Pahrump, NV 89048": [
+    null,
+    null
+  ],
+  "N6768 720th Street , Beldenville, WI 54003": [
+    null,
+    null
+  ],
+  "5101 W Heritage Pl #6 , Sioux Falls, SD 57106": [
+    null,
+    null
+  ],
+  "274 28th Ave , Longview, WA 98632": [
+    46.1254877,
+    -122.9629471
+  ],
+  "1751 County B Rd W #300, Roseville, MN 55113": [
+    null,
+    null
+  ],
+  "2109 Jessie Hall Industrial Pk , Magnolia, MS 39652": [
+    null,
+    null
+  ],
+  "1050 Carl Griffin Drive , Savannah, GA 31405": [
+    32.0668281,
+    -81.1662722
+  ],
+  "711 Jackson Street East , Oxford, MS 38655": [
+    null,
+    null
+  ],
+  "811 East City Hall Avenue , Norfolk, VA 23510": [
+    36.846964,
+    -76.2850255
+  ],
+  "402 South Main , Midland, TX 79701": [
+    null,
+    null
+  ],
+  "346 Mcmath Mill Road , Americus, GA 31719": [
+    null,
+    null
+  ],
+  "2001 Fifth Street , Meridian, MS 39301": [
+    null,
+    null
+  ],
+  "100 Green Street East , Wilson, NC 27893": [
+    35.7260333,
+    -77.9099529
+  ],
+  "170 NC Highway 65 , Reidsville, NC 27320": [
+    null,
+    null
+  ],
+  "325 Stafford Road , Barstow, MD 20610": [
+    38.5309242,
+    -76.612428
+  ],
+  "555 Gearhart Road , Sidney, OH 45365": [
+    40.2716113,
+    -84.1491872
+  ],
+  "769 Highway 57 West , Swainsboro, GA 30401": [
+    null,
+    null
+  ],
+  "2500 South US 385 , Odessa, TX 79766": [
+    31.820758,
+    -102.356628
+  ],
+  "212 Biggs Street , Laurinburg, NC 28352": [
+    34.7754078,
+    -79.460409
+  ],
+  "711 Jackson Ave E , Oxford, MS 38655": [
+    34.3679655,
+    -89.5223433
+  ],
+  "201 Webber Street , The Dalles, OR 97058": [
+    45.612235,
+    -121.2004213
+  ],
+  "755 Hope St , Shreveport, LA 71101": [
+    32.5037094,
+    -93.7567275
+  ],
+  "320 East Boyce Street , Manning, SC 29102": [
+    33.6930784,
+    -80.2036245
+  ],
+  "500 West 2nd Street , Rolla, MO 65401": [
+    37.9457153,
+    -91.7750941
+  ],
+  "212 Second Street , Steelville, MO 65565": [
+    null,
+    null
+  ],
+  "504 Gooding Street North , Twin Falls, ID 83301": [
+    42.5596574,
+    -114.4675867
+  ],
+  "253 Throop Street , Bennettsville, SC 29512": [
+    34.6080047,
+    -79.6697913
+  ],
+  "507 South Brown Street , Springfield, TN 37172": [
+    36.5078568,
+    -86.8803885
+  ],
+  "12008 Jacob Smart Boulevard , Ridgeland, SC 29936": [
+    32.4964138,
+    -80.9741181
+  ],
+  "1720 South Church Street , Murfreesboro, TN 37130": [
+    35.823105,
+    -86.3950217
+  ],
+  "2255 East 8th North , Mountain Home, ID 83647": [
+    43.1363262,
+    -115.6730371
+  ],
+  "1650 Aviation Drive , Hailey, ID 83333": [
+    43.5047316,
+    -114.3018924
+  ],
+  "6905 Crain Highway , La Plata, MD 20646": [
+    38.5250549,
+    -76.9819869
+  ],
+  "501 North Maple , Blackfoot, ID 83221": [
+    43.1943221,
+    -112.3445432
+  ],
+  "429 East Central Avenue , Raeford, NC 28376": [
+    34.9791322,
+    -79.2171194
+  ],
+  "1459 Albion Avenue , Burley, ID 83318": [
+    42.5350203,
+    -113.7918102
+  ],
+  "1016 Andrew Jackson Drive , Waynesboro, TN 38485": [
+    null,
+    null
+  ],
+  "522 South Adams , Moscow, ID 83843": [
+    46.7307407,
+    -116.9967088
+  ],
+  "171 Savannah Millard Road , Poplarville, MS 39470": [
+    null,
+    null
+  ],
+  "6101 Attwater Avenue , Dickinson, TX 77539": [
+    null,
+    null
+  ],
+  "1496 Simpson Highway 149 , Mendenhall, MS 39114": [
+    31.9625028,
+    -89.8771839
+  ],
+  "130 South Queen Street , Kinston, NC 28501": [
+    35.2592859,
+    -77.5799062
+  ],
+  "5700 Star Lane , Florida, FL 32404": [
+    30.6442837,
+    -81.8737151
+  ],
+  "107 West Spring Street , Cascade, ID 83611": [
+    44.5172509,
+    -116.044144
+  ],
+  "94235 Moore Street , Gold Beach, OR 97444": [
+    42.4173712,
+    -124.4186238
+  ],
+  "12 Court Street , Uniontown, PA 15401": [
+    39.9019741,
+    -79.7233475
+  ],
+  "262 East Court Street , Weiser, ID 83672": [
+    44.2474441,
+    -116.9657589
+  ],
+  "20030 Highway 51 , Gallman, MS 39077": [
+    null,
+    null
+  ],
+  "675 Highway 51 South , Ripley, TN 38063": [
+    null,
+    null
+  ],
+  "1186 Elk Street , Franklin, PA 16323": [
+    41.3981233,
+    -79.8266959
+  ],
+  "16801 HWY 15 , Braithwaite, LA 70040": [
+    null,
+    null
+  ],
+  "884 Southeast Jefferson Street , Dallas, OR 97338": [
+    44.9254382,
+    -123.3152461
+  ],
+  "2700 US 41 North , CALHOUN, GA 30701": [
+    34.5239781,
+    -84.940256
+  ],
+  "150 East Church Street , Lewisburg, TN 37091": [
+    35.4501722,
+    -86.7869128
+  ],
+  "3425 Industrial Dr W , Hernando, MS 38632": [
+    34.8115452,
+    -89.9825434
+  ],
+  "3840 Fair Street , Pascagoula, MS 39567": [
+    30.3766687,
+    -88.5475987
+  ],
+  "314 Cedar Street , Dover, TN 37058": [
+    36.4814222,
+    -87.844103
+  ],
+  "2150 South Tiger Drive , Jerome, ID 83338": [
+    42.7240499,
+    -114.5020829
+  ],
+  "225 S McDonough St , Montgomery, AL 36104": [
+    32.374445,
+    -86.304693
+  ],
+  "150 North 19th Avenue , BRIGHTON, CO 80601": [
+    39.9897888,
+    -104.7994207
+  ],
+  "11924 Bia Highway 700 , Sisseton, SD 57262-1551": [
+    null,
+    null
+  ],
+  "1501 Colorado Nw , Huron, SD 57350-1814": [
+    null,
+    null
+  ],
+  "500 North Minnesota Ave , Sioux Falls, SD 57104-2465": [
+    43.5524104,
+    -96.731237
+  ],
+  "225 E 6Th St , Waterloo, IA 50703": [
+    42.4975606,
+    -92.3339668
+  ],
+  "17262 Lark Ave , Mason City, IA 50401": [
+    null,
+    null
+  ],
+  "111 4TH ST NE , Waverly, IA 50677-1761": [
+    42.7264281,
+    -92.4658723
+  ],
+  "960 Franklyn Ave , Marengo, IA 52301-1400": [
+    41.7983609,
+    -92.0710732
+  ],
+  "709 N Grant St , Lexington, NE 68850-1900": [
+    40.7805177,
+    -99.7402448
+  ],
+  "1313 1/2 N Main St , Madison, NE 68748-6062": [
+    41.8303851,
+    -97.4550253
+  ],
+  "911 S Main St , Wilber, NE 68465": [
+    40.4750912,
+    -96.9616735
+  ],
+  "451 N 5th St , David City, NE 68632-1648": [
+    41.2533638,
+    -97.1287698
+  ],
+  "336 Main Street , Plattsmouth, NE 68048-1944": [
+    41.0112468,
+    -95.8831012
+  ],
+  "1313 N Main St Ste 3 , Madison, NE 68748-6063": [
+    null,
+    null
+  ],
+  "261 S 8th St , Seward, NE 68434-2417": [
+    null,
+    null
+  ],
+  "612 LINCOLN ST STE 3 , Beatrice, NE 68310-2975": [
+    null,
+    null
+  ],
+  "1601 Broadway St , Dakota City, NE 68731-5065": [
+    42.415283,
+    -96.41887
+  ],
+  "715 5Th Ave Ste 20 , Holdrege, NE 68949-2254": [
+    null,
+    null
+  ],
+  "387 N Chestnut St Ste 1 , Wahoo, NE 68066-1869": [
+    null,
+    null
+  ],
+  "1125 E 17TH ST , Columbus, NE 68601-3737": [
+    null,
+    null
+  ],
+  "1910 Pioneer Ave , Cheyenne, WY 82001": [
+    41.1348377,
+    -104.8201959
+  ],
+  "13794 Prairie Center Circle , Cheyenne, WY 82009": [
+    41.1497709,
+    -104.6467492
+  ],
+  "77 County Road 109 , Evanston, WY 82930-9797": [
+    null,
+    null
+  ],
+  "175 S Willow St , Jackson, WY 83001-8337": [
+    43.4781799,
+    -110.7587788
+  ],
+  "1302 East Daley Street , Rawlins, WY 82301": [
+    null,
+    null
+  ],
+  "1040 Justice Center Dr. , Kemmerer, WY 83101": [
+    null,
+    null
+  ],
+  "54 W 13th St , Sheridan, WY 82801": [
+    44.8160882,
+    -106.9558958
+  ],
+  "32 E Spruce St , Chippewa Falls, WI 54729-2542": [
+    44.9406579,
+    -91.3964392
+  ],
+  "200 Oak St FL 2, Mauston, WI 53948": [
+    null,
+    null
+  ],
+  "301 Washington St , Oconto, WI 54153-1620": [
+    44.8902011,
+    -87.8659479
+  ],
+  "2827 6th St , Monroe, WI 53566": [
+    42.6071995,
+    -89.6238805
+  ],
+  "77 W Park St , Montello, WI 53949": [
+    43.7931935,
+    -89.3292069
+  ],
+  "840 Clermont St , Antigo, WI 54409": [
+    45.1443882,
+    -89.1555432
+  ],
+  "615 Stokke Pkwy Ste G300 , Menomonie, WI 54751-7904": [
+    null,
+    null
+  ],
+  "1005 W Main St Ste 300 , Balsam Lake, WI 54810-4410": [
+    null,
+    null
+  ],
+  "430 E Division St , Wautoma, WI 54982": [
+    44.0690124,
+    -89.2812372
+  ],
+  "1462 Strongs Ave , Stevens Point, WI 54481": [
+    44.521484,
+    -89.582208
+  ],
+  "15015 62ND ST N , STILLWATER, MN 55082-6804": [
+    45.03914,
+    -92.803715
+  ],
+  "1530 Airport Rd N , Worthington, MN 56187-3502": [
+    43.6478294,
+    -95.5897967
+  ],
+  "101 N Main St , Stanley, ND 58784": [
+    48.3211747,
+    -102.3917609
+  ],
+  "201 5th St NW , Watford City, ND 58854-7119": [
+    47.802431,
+    -103.288555
+  ],
+  "205 6Th St Se , Jamestown, ND 58401-4295": [
+    46.9032083,
+    -98.7065565
+  ],
+  "315 3Rd St Se , Minot, ND 58701-3959": [
+    48.2328947,
+    -101.2880872
+  ],
+  "110 Industrial Rd , Rugby, ND 58368-1320": [
+    48.3735898,
+    -99.9777153
+  ],
+  "450 34Th St S , Fargo, ND 58103-2229": [
+    46.8567416,
+    -96.8361349
+  ],
+  "4268 Apple Creek Rd , Bismarck, ND 58501-4413": [
+    46.7944683,
+    -100.6943552
+  ],
+  "205 Bedford St Ste A, HAMILTON, MT 59840": [
+    null,
+    null
+  ],
+  "1010 Main St Ste 18, Miles City, MT 59301": [
+    null,
+    null
+  ],
+  "106 4TH AVE E , POLSON, MT 59860": [
+    47.6922327,
+    -114.1615835
+  ],
+  "440 Colorado Blvd , Glendive, MT 59330": [
+    47.1309643,
+    -104.6860978
+  ],
+  "1452 2nd St W , Havre, MT 59501": [
+    48.5528871,
+    -109.7070884
+  ],
+  "200 Tucker Blvd , St. Louis, MO 63102": [
+    38.6260399,
+    -90.1985702
+  ],
+  "501 Faraon St , Saint Joseph, MO 64501-4101": [
+    39.7693474,
+    -94.8539403
+  ],
+  "415 3Rd St , Platte City, MO 64079-8476": [
+    39.3716684,
+    -94.7801824
+  ],
+  "#5 Basler Drive , Sainte Genevieve, MO 63670-1828": [
+    37.9678946,
+    -90.0552167
+  ],
+  "1442 W Commercial St , Lyons, KS 67554-9209": [
+    38.3466702,
+    -98.2103395
+  ],
+  "141 W Elm St , Wichita, KS 67203-3848": [
+    37.6945046,
+    -97.3398965
+  ],
+  "135 E 5th Ave , Garnett, KS 66032-1513": [
+    38.2799312,
+    -95.2414495
+  ],
+  "800 E Pacific Ave , Salina, KS 67401": [
+    38.8561274,
+    -97.599567
+  ],
+  "601 S 3Rd St Ste 2007 , Leavenworth, KS 66048-2764": [
+    null,
+    null
+  ],
+  "1177 W Woodside St , Mcpherson, KS 67460-3256": [
+    38.3731675,
+    -97.6839708
+  ],
+  "2800 Perdido St , New Orleans, LA 70119-7418": [
+    29.960227,
+    -90.094211
+  ],
+  "100 Dolhonde St , Gretna, LA 70053-5801": [
+    29.915915,
+    -90.068431
+  ],
+  "5500 N Government Way , Coeur d'Alene, ID 83815": [
+    47.7212703,
+    -116.7862459
+  ],
+  "219 N 12TH AVE , CALDWELL, ID 83605-3555": [
+    43.664875,
+    -116.6812986
+  ],
+  "5800 S 5th Ave , Pocatello, ID 83204-2205": [
+    42.8247454,
+    -112.3895315
+  ],
+  "1150 Wall St , Lewiston, ID 83501": [
+    46.4321811,
+    -117.0174276
+  ],
+  "475 E 2ND S STE 2 , Soda Springs, ID 83276-1447": [
+    null,
+    null
+  ],
+  "100 JUSTICE CENTER RD , CANON CITY, CO 81212": [
+    38.445408,
+    -105.183152
+  ],
+  "288 County Rd 29 , Divide, CO 80814": [
+    null,
+    null
+  ],
+  "1155 W Clydesdale Dr # 2 , Fayetteville, AR 72701-8299": [
+    null,
+    null
+  ],
+  "222 Law Ln , Charlotte Court House, VA 23923-3748": [
+    37.0521774,
+    -78.638252
+  ],
+  "2501 James Madison Dr , Virginia Beach, VA 23456-9107": [
+    null,
+    null
+  ],
+  "6900 Mimms Dr , Chesterfield, VA 23832": [
+    37.3789761,
+    -77.5078696
+  ],
+  "1745 Jefferson Davis Hwy , Stafford, VA 22554-7213": [
+    38.3240219,
+    -77.4683859
+  ],
+  "60 Stokes King Rd , Greenville, MS 38701-8611": [
+    null,
+    null
+  ],
+  "300 East D St , Iron Mountain, MI 49801-3403": [
+    45.8159203,
+    -88.0635301
+  ],
+  "501 W Cedar Ave , Gladwin, MI 48624-2064": [
+    43.980813,
+    -84.4923163
+  ],
+  "3501 Hamtramck Dr. , Hamtramck, MI 48226-2334": [
+    42.389358,
+    -83.0462934
+  ],
+  "500 East 52nd Street North , Sioux Falls, SD 57104": [
+    43.5928591,
+    -96.7200445
+  ],
+  "641 E 300 S Ste 150 , Vernal, UT 84078-2734": [
+    null,
+    null
+  ],
+  "1225 Valley View Dr , Logan, UT 84321-4585": [
+    null,
+    null
+  ],
+  "971 East Kaneplex Dr , Kanab, UT 84741": [
+    null,
+    null
+  ],
+  "1500 US-89 , Manti, UT 84642": [
+    39.2478421,
+    -111.6452042
+  ],
+  "125 Cemetery Rd , Woodstown, NJ 08098-5433": [
+    null,
+    null
+  ],
+  "4700 E Filager Rd , Batavia, OH 45103-8910": [
+    39.0923138,
+    -84.1849043
+  ],
+  "1 Donham Plz , Middletown, OH 45042-1932": [
+    39.5191514,
+    -84.4011081
+  ],
+  "415 W Walnut St , Washington, IN 47501-2623": [
+    38.6586193,
+    -87.1804194
+  ],
+  "26861 County Road 26 , Elkhart, IN 46517-9782": [
+    41.6251817,
+    -85.9812032
+  ],
+  "407 7Th. St. , Sioux City, IA 51101": [
+    42.4975021,
+    -96.4062738
+  ],
+  "1104 E 1St St Stop 1 , Merrill, WI 54452-2535": [
+    null,
+    null
+  ],
+  "138 W Catherine St , Darlington, WI 53530": [
+    42.6819336,
+    -90.1134893
+  ],
+  "103 3rd Ave , Hugo, CO 80821": [
+    39.1323994,
+    -103.4735558
+  ],
+  "300 S Carlisle St , New Bloomfield, PA 17068": [
+    40.4139928,
+    -77.1868367
+  ],
+  "100 BOBBY WAITS LANE , Shelbyville, KY 40065": [
+    null,
+    null
+  ],
+  "901 E Main St , Dothan, AL 36301": [
+    null,
+    null
+  ],
+  "1704 E 7th St , Clovis, NM 88101": [
+    null,
+    null
+  ],
+  "13400 Dille Dr , Upper Marlboro, MD 20772": [
+    null,
+    null
+  ],
+  "401 W Sample St , South Bend, IN 46601": [
+    41.665157,
+    -86.254276
+  ],
+  "1520 Ellis Ave , Orangeburg, SC 29118": [
+    33.5119329,
+    -80.8537897
+  ],
+  "742 Turner Dr , Durango, CO 81303": [
+    37.2470374,
+    -107.8783012
+  ],
+  "17635 Industrial Farm Rd , Bakersfield, CA 93308": [
+    null,
+    null
+  ],
+  "1015 S Miller Ave , Mitchell, SD 57301": [
+    43.7005747,
+    -98.0369438
+  ],
+  "3200 e SD Highway 34 # 9, Pierre, SD 57501": [
+    null,
+    null
+  ],
+  "925 Lafoon Ave , Faulkton, SD 57438": [
+    45.0332942,
+    -99.126729
+  ],
+  "410 Walnut St , Yankton, SD 57078": [
+    42.871849,
+    -97.3931708
+  ],
+  "415 N Dakota Ave Ste 102, Sioux Falls, SD 57104": [
+    null,
+    null
+  ],
+  "407 7th St , Sioux City, IA 51101": [
+    42.4975021,
+    -96.4062738
+  ],
+  "451 N 5th St , David City, NE 68632": [
+    41.2533638,
+    -97.1287698
+  ],
+  "261 S 8th St , Seward, NE 68434": [
+    null,
+    null
+  ],
+  "1208 Golden Gate Dr , Papillion, NE 68046": [
+    41.1434535,
+    -96.0419407
+  ],
+  "110 Public Safety Dr. , Grand Island, NE 68801": [
+    null,
+    null
+  ],
+  "600 W Boxelder Rd , Gillette, WY 82718": [
+    44.277449,
+    -105.5129019
+  ],
+  "32 E Spruce St , Chippewa Falls, WI 54729": [
+    44.9406579,
+    -91.3964392
+  ],
+  "115 W Doty St , Madison, WI 53703": [
+    43.0718131,
+    -89.3835756
+  ],
+  "200 Oak St. , Mauston, WI 53948": [
+    43.796041,
+    -90.076087
+  ],
+  "2906 Syene Rd , Madison, WI 53713": [
+    43.0311057,
+    -89.3942326
+  ],
+  "201 5th St NW , Watford City, ND 58854": [
+    47.802431,
+    -103.288555
+  ],
+  "4268 Apple Creek Rd , Bismarck, ND 58501": [
+    46.7944683,
+    -100.6943552
+  ],
+  "300 12th Ave NW , Sidney, MT 59270": [
+    47.7190578,
+    -104.1718752
+  ],
+  "1010 Main St Ste 18 , Miles City, MT 59301": [
+    null,
+    null
+  ],
+  "2121 E County Dr , Columbia, MO 65202": [
+    39.0049254,
+    -92.3048685
+  ],
+  "811 Washington St , Concordia, KS 66901": [
+    39.5690327,
+    -97.6601467
+  ],
+  "135 E 5th Ave , Garnett, KS 66032": [
+    38.2799312,
+    -95.2414495
+  ],
+  "101 N Kansas Ave , Olathe, KS 66061": [
+    38.8829377,
+    -94.8210306
+  ],
+  "911 Fuller St , Winfield, KS 67156": [
+    37.2401676,
+    -96.9934075
+  ],
+  "100 JUSTICE CENTER RD , CANON CITY, CO 81212-9354": [
+    38.445408,
+    -105.183152
+  ],
+  "1155 W Clydesdale Dr #2, Fayetteville, AR 72701": [
+    null,
+    null
+  ],
+  "325 S Hill Carter Pkwy UNIT H , Ashland, VA 23005": [
+    null,
+    null
+  ],
+  "301 E Erie Ave , Philadelphia, PA 19124": [
+    40.0069692,
+    -75.1341687
+  ],
+  "1225 Valley View Dr #100 , Logan, UT 84321-4585": [
+    null,
+    null
+  ],
+  "125 E Center St , Moab, UT 84532": [
+    38.5738292,
+    -109.5482807
+  ],
+  "130 S 100 E Ste 1 , Kanab, UT 84741": [
+    null,
+    null
+  ],
+  "1500 South Hwy 89 , Manti, UT 84642": [
+    null,
+    null
+  ],
+  "751 S 5300 W , Hurricane, UT 84737": [
+    37.1596002,
+    -113.4122236
+  ],
+  "1515 South 700 West , Salt Lake City, UT 84104": [
+    40.7358013,
+    -111.9092341
+  ],
+  "3076 N Main St , Spanish Fork, UT 84660": [
+    null,
+    null
+  ],
+  "50 Fenwick St , Newark, NJ 07114": [
+    40.7020734,
+    -74.1928182
+  ],
+  "26861 County Road 26 , Elkhart, IN 46517": [
+    41.6251817,
+    -85.9812032
+  ],
+  "141 W Elm St , Wichita, KS 67203": [
+    37.6945046,
+    -97.3398965
+  ],
+  "1520 E Basin Ave , Pahrump, NV 89060": [
+    36.2203785,
+    -115.9862191
+  ],
+  "765 S Highway 99 , Fillmore, UT 84631": [
+    38.9532772,
+    -112.339318
+  ],
+  "6300 Justice Center Rd , Park City, UT 84098": [
+    null,
+    null
+  ],
+  "311 Grand Avenue , Bellingham, WA 98225": [
+    48.7540871,
+    -122.4797023
+  ],
+  "1100 Bruce Ln , Casper, WY 82601": [
+    42.862486,
+    -106.344705
+  ],
+  "137 W Arizona St , Holbrook, AZ 86025": [
+    34.9025012,
+    -110.1592464
+  ],
+  "22 Court St #1, Aberdeen, SD 57401": [
+    null,
+    null
+  ],
+  "3410 K St , Baker City, OR 97814": [
+    44.7917568,
+    -117.8486374
+  ],
+  "501 N Maple #408 , Blackfoot, ID 83221": [
+    null,
+    null
+  ],
+  "1650 Aviation Dr , Hailey, ID 83333": [
+    43.5047316,
+    -114.3018924
+  ],
+  "1215 Washington St , Fort Benton, MT 59442": [
+    47.8167173,
+    -110.6728496
+  ],
+  "475 E 2nd St , Soda Springs, ID 83276": [
+    null,
+    null
+  ],
+  "146 N 2nd W , St Anthony, ID 83445": [
+    null,
+    null
+  ],
+  "410 E 1st St , Emmett, ID 83617": [
+    null,
+    null
+  ],
+  "624 Main St , Gooding, ID 83330": [
+    42.9392588,
+    -114.7127503
+  ],
+  "2151 S Tiger Dr , Jerome, ID 83338": [
+    null,
+    null
+  ],
+  "522 S Adams St , Moscow, ID 83843": [
+    46.7307407,
+    -116.9967088
+  ],
+  "145 E Main St , Rexburg, ID 83440": [
+    null,
+    null
+  ],
+  "550 Gifford Ave , American Falls, ID 83211": [
+    42.7829263,
+    -112.8490364
+  ],
+  "504 Gooding St N , Twin Falls, ID 83301": [
+    42.5596574,
+    -114.4675867
+  ],
+  "262 E Court St , Weiser, ID 83672": [
+    44.2474441,
+    -116.9657589
+  ],
+  "94235 Moore St , Gold Beach, OR 97444": [
+    42.4173712,
+    -124.4186238
+  ],
+  "297 S Main St , Monticello, UT 84535": [
+    37.8684344,
+    -109.3428298
+  ],
+  "1535 Colfax St , Blair, NE 68008": [
+    41.5406523,
+    -96.1350892
+  ],
+  "115 Jackson Street SE , Albany, OR 97322": [
+    44.6378037,
+    -123.0996704
+  ],
+  "3491 Ferguson St SW , Tumwater, WA 98512": [
+    47.0150948,
+    -122.947172
+  ],
+  "205 W 5th Ave , Ellensburg, WA 98926": [
+    46.9971364,
+    -120.5494473
+  ],
+  "800 S Coronado Blvd , Clifton, AZ 85533": [
+    33.0497154,
+    -109.2952711
+  ],
+  "601 S 3rd St , La Porte, KS 77571": [
+    null,
+    null
+  ],
+  "787 W 8th St , Medford, OR 97501": [
+    42.3220535,
+    -122.8786805
+  ],
+  "3564 Albert Pike RD , Hot Springs, AR 71913": [
+    34.4950436,
+    -93.0777221
+  ],
+  "800 1st St , Craig, CO 81625": [
+    40.5106583,
+    -107.5247632
+  ],
+  "1415 Albion Ave , Burley, ID 83318": [
+    42.5352803,
+    -113.7918093
+  ],
+  "223 E Broadway , Williston, ND 58801": [
+    48.147088,
+    -103.6176494
+  ],
+  "455 4th St SW , Huron, SD 57350": [
+    44.362115,
+    -98.2220027
+  ],
+  "1016 N 4th Ave , Pasco, WA 99301": [
+    46.2369413,
+    -119.0961195
+  ],
+  "1130 3rd Ave N RM 104, Payette, ID 83661": [
+    null,
+    null
+  ],
+  "345 W Main St , Chehalis, WA 98532": [
+    46.6614103,
+    -122.969272
+  ],
+  "201 Suzanne Ln , Mount Vernon, WA 98273": [
+    48.3943932,
+    -122.3344109
+  ],
+  "801 N Main St , Clovis, NM 88101": [
+    34.405859,
+    -103.205261
+  ],
+  "501 Court Sq , Glasgow, MT 59230": [
+    null,
+    null
+  ],
+  "209 E Main St , Elk Point, SD 57025": [
+    42.6857088,
+    -96.6833548
+  ],
+  "518 Parallel St , Atchison, KS 66002": [
+    39.566103,
+    -95.1193873
+  ],
+  "54 W 13th , Sheridan, WY 82801": [
+    44.8160882,
+    -106.9558958
+  ],
+  "221 Breckenridge St , Helena, MT 59601": [
+    46.5864581,
+    -112.0367341
+  ],
+  "4820 She-Nah-Num Drive SE , Olympia, WA 98513": [
+    47.0039329,
+    -122.6701898
+  ],
+  "175 S Willow St , Jackson, WY 83001": [
+    43.4781799,
+    -110.7587788
+  ],
+  "911 Harvey Ln , Yerington, NV 89447": [
+    38.9961168,
+    -119.1606603
+  ],
+  "180 W A St , Fallon, NV 89406": [
+    39.4768678,
+    -118.778693
+  ],
+  "1180 County Road , Fairplay, CO 80440": [
+    null,
+    null
+  ],
+  "1486 Kleppe Ln , Sparks, NV 89431": [
+    39.5260785,
+    -119.7167533
+  ],
+  "1361 US-40 , Heber City, UT 84032": [
+    40.5240946,
+    -111.4100948
+  ],
+  "50140 US-191 , Rock Springs, WY 82901": [
+    41.5871173,
+    -109.2488793
+  ],
+  "1032 Beech Street , Kemmerer, WY 83101": [
+    null,
+    null
+  ],
+  "1401 S Commercial St , Lovington, NM 88260": [
+    32.934241,
+    -103.3390551
+  ],
+  "63333  West Highway 20 , Bend, OR 97703": [
+    null,
+    null
+  ],
+  "2290 105 S A Street , Hawthorne, NV 89415": [
+    null,
+    null
+  ],
+  "3501 Hamtramck Dr , Hamtramck, MI 48211": [
+    42.389358,
+    -83.0462934
+  ],
+  "1927 Rosa Parks Blvd , Detroit, MI 48216": [
+    42.3283344,
+    -83.0710474
+  ],
+  "225 Justice Way , Pioche, NV 89043": [
+    37.9420306,
+    -114.4417905
+  ],
+  "205 BEDFORD STEEET, STE I , HAMILTON, MT 59840": [
+    null,
+    null
+  ],
+  "527 S Martin Luther Jr Dr , Columbus, MS 39701": [
+    null,
+    null
+  ],
+  "215 SW Adams Ave , Hillsboro, OR 97123": [
+    45.5208829,
+    -122.9930681
+  ],
+  "60 Knox Lane , Wheeling, WV 26003": [
+    40.0731927,
+    -80.6960297
+  ],
+  "1440 Carmel Road , Charlotte, NC 28226": [
+    35.145361,
+    -80.8031489
+  ],
+  "7702 Pinville Matthews Road , Charlotte, NC 28226": [
+    null,
+    null
+  ],
+  "4330 N. Michigan Road , Indianapolis, IN 46208": [
+    39.926937,
+    -86.2299083
+  ],
+  "3650 Reed Road , Columbus, OH 43220": [
+    40.0573794,
+    -83.0668188
+  ],
+  "33 East 33Rd St , Indianapolis, IN 46205": [
+    39.815785,
+    -86.1560291
+  ],
+  "103 N. Mooreland Road , Richmond, VA 23229": [
+    null,
+    null
+  ],
+  "1000 Main Street , St. Johnsbury, VT 05819": [
+    44.4144049,
+    -72.0204415
+  ],
+  "168 Institute Circle , Lyndon Center, VT 05850": [
+    44.5387044,
+    -72.0162856
+  ],
+  "315 Hillside Ave , Demarest, NJ 07627": [
+    40.9416518,
+    -73.9454359
+  ],
+  "703 E Churchville Rd , Bel Air, MD 21014": [
+    39.5391483,
+    -76.3332254
+  ],
+  "39 Church St , Bethel, ME 04217": [
+    44.4068319,
+    -70.7919551
+  ],
+  "441 E Fordham Rd , Bronx, NY 10458": [
+    40.8617344,
+    -73.8860317
+  ],
+  "9520 Ferguson Ave , Savannah, GA 31406": [
+    null,
+    null
+  ],
+  "101 N Tryon St Suite 525, Charlotte, NC 28202": [
+    null,
+    null
+  ],
+  "122 Bee Tree BLVD , Summerville, SC 29486": [
+    33.1465354,
+    -80.1279112
+  ],
+  "9304 Camden Field PKWY , Riverview, FL 33578": [
+    null,
+    null
+  ],
+  "9560 LA-33 , Farmerville, LA 71241": [
+    32.7424446,
+    -92.4320302
+  ],
+  "1200 W. Speedway Blvd , Tucson, AZ 85745": [
+    32.2356749,
+    -110.9893217
+  ],
+  "903 State Rd. , Sauk Centre, MN 56378": [
+    45.7293643,
+    -94.9433405
+  ],
+  "1107 Holloway St , Durham, NC 27701": [
+    35.9951416,
+    -78.880911
+  ],
+  "1240 Luckney Road , Flowood, MS 39232": [
+    32.3477245,
+    -90.0509287
+  ],
+  "207 East Liberty Street , Savannah, GA 31401": [
+    32.0739646,
+    -81.0911413
+  ],
+  "608 Henry Avenue , Beloit, WI 53511": [
+    42.5224033,
+    -89.034123
+  ],
+  "901 Burkemont Ave , Morganton, NC 28655": [
+    35.730199,
+    -81.6856283
+  ],
+  "7065 US Highway 165 N , Monroe, LA 71203": [
+    null,
+    null
+  ],
+  "735 E Fillmore Street , Phoenix, AZ 85006": [
+    33.4544994,
+    -112.0640618
+  ],
+  "1401 144th St. , East Chicago, IN 46312": [
+    41.6336729,
+    -87.4542699
+  ],
+  "7723 Chamber Creek Road , Tacoma, WA 98467": [
+    null,
+    null
+  ],
+  "65 North Mobile Street , Mobile, AL 36607": [
+    30.7073238,
+    -88.1022639
+  ],
+  "5300 Wurzbach Rd , San Antonio, TX 78238": [
+    29.4813487,
+    -98.6090174
+  ],
+  "2727 Military Parkway , Mesquite, TX 75149": [
+    32.7692504,
+    -96.6423092
+  ],
+  "P O Box 61726 , San Angelo, TX 76906": [
+    null,
+    null
+  ],
+  "12300 Greenwood Avenue , Blue Island, IL 60406": [
+    41.669847,
+    -87.683013
+  ],
+  "114 W 144th St , Riverdale, IL 60827": [
+    41.6331941,
+    -87.6254457
+  ],
+  "14025 Harrison , Posin, IL 60469": [
+    null,
+    null
+  ],
+  "1301 Waters Ridge Drive , Lewisville, TX 75057": [
+    33.02174,
+    -96.973496
+  ],
+  "3301 TLC Way , San Angelo, TX 76901": [
+    31.451276,
+    -100.484161
+  ],
+  "3303 Potters Way , Dallas, TX 75236": [
+    32.6972285,
+    -96.9479834
+  ],
+  "250 Central Ave , Albany, NY 12206": [
+    42.6632992,
+    -73.7710964
+  ],
+  "10030 Mathog Road , Riverview, FL 33578": [
+    27.8551407,
+    -82.3336136
+  ],
+  "618 W. Wheatland Road , Duncanville, TX 75116": [
+    32.6475706,
+    -96.9227297
+  ],
+  "350 W 154th Street , South Holland, IL 60473": [
+    41.6154736,
+    -87.6258132
+  ],
+  "5800 E Martin Luther King Jr Blvd , Austin, TX 78721": [
+    30.28617,
+    -97.6680732
+  ],
+  "305 NW 3rd Avenue , Miami, FL 33128": [
+    25.777439,
+    -80.1992567
+  ],
+  "251 North 1st Street , Jacksonville, AR 72066": [
+    34.868513,
+    -92.109609
+  ],
+  "1101 Bloomingdale Ave , Valrico, FL 33596": [
+    27.8921416,
+    -82.2664472
+  ],
+  "200 River Market AVE , Little Rock, AR 72201": [
+    34.74604,
+    -92.265904
+  ],
+  "800 Corporate Dr Suite 700, Fort Lauderdale, FL 33334": [
+    null,
+    null
+  ],
+  "800 Corporate Drive Suite 700, Fort Lauderdale, FL 33334": [
+    null,
+    null
+  ],
+  "800 Corporate Dr Ste 700 , Fort Lauderdale, FL 33334": [
+    null,
+    null
+  ],
+  "2600 Virginia Ave NW Ste 900, Washington, DC 20037": [
+    null,
+    null
+  ],
+  "800 Corporate Drive , Fort Lauderdale, FL 33334": [
+    26.2062257,
+    -80.1378597
+  ],
+  "9758 E Highland Rd , Howell, MI 48843": [
+    null,
+    null
+  ],
+  "1899 Bacons Bridge Rd , Summerville, SC 29485": [
+    32.97386,
+    -80.198055
+  ],
+  "32775 Oldwoods Ave , Wesley Chapel, FL 33543": [
+    null,
+    null
+  ],
+  "700 Franklin Street , Socorro, NM 87801": [
+    34.065415,
+    -106.898271
+  ],
+  "333 NE 188th Street , Aventura, FL 33180": [
+    25.9493797,
+    -80.1386985
+  ],
+  "4420 Manson Pike , Murfreesboro, TN 37129": [
+    35.8744244,
+    -86.4894243
+  ],
+  "301 Mamie St , Hattiesburg, MS 39401": [
+    31.322713,
+    -89.301965
+  ],
+  "126 Hay St , Fayetteville, NC 28301": [
+    35.0534073,
+    -78.8790151
+  ],
+  "11650 LA-92 , Maurice, LA 70555": [
+    30.105603,
+    -92.1246143
+  ],
+  "200 Font Ave , Baltimore, MD 21223": [
+    39.2822049,
+    -76.6629634
+  ],
+  "7601 Old Canton Road , Madison, MS 39110": [
+    32.4506447,
+    -90.1062932
+  ],
+  "3100 Lakeland Drive , Flowood, MS 39232": [
+    32.3325219,
+    -90.1319018
+  ],
+  "W247 S10395 Center Drive , Mukwonago, WI 53149": [
+    42.8550175,
+    -88.2420229
+  ],
+  "1501 Old Shell Road , Mobile, AL 36604": [
+    30.6886812,
+    -88.071732
+  ],
+  "742 W. Capitol Drive , Milwaukee, WI 53206": [
+    43.0894163,
+    -87.9205065
+  ],
+  "4059 N 64th Street , Milwaukee, WI 53216": [
+    43.0914567,
+    -87.9933031
+  ],
+  "1141 North Lincoln Blvd. , Oklahoma City, OK 73104-1253": [
+    35.4790196,
+    -97.5023767
+  ],
+  "2073 County Rd DK , Brussels, WI 54204": [
+    null,
+    null
+  ],
+  "2400 Cedar Creek Drive , Ruston, LA 71270": [
+    32.5554225,
+    -92.6200254
+  ],
+  "1900 Beaser Ave , Ashland, WI 54806": [
+    46.5720198,
+    -90.8824457
+  ],
+  "5440 Endville Road , Belden, MS 38826": [
+    34.3084549,
+    -88.7978385
+  ],
+  "1390 North State Street , Jackson, MS 39202": [
+    32.3178985,
+    -90.1778002
+  ],
+  "1800 Pleasure Island Road , Eagle River, WI 54521": [
+    45.939978,
+    -89.252783
+  ],
+  "600 W Grand Ave, Bldg 4 , Lake Villa, IL 60046": [
+    null,
+    null
+  ],
+  "811 West Donovan Street , Houston, TX 77091": [
+    29.8428251,
+    -95.4137526
+  ],
+  "1403 Eastover Drive , Jackson, MS 39211": [
+    32.3412514,
+    -90.151694
+  ],
+  "200 State Hwy 55 East , Maple Lake, MN 55358": [
+    null,
+    null
+  ],
+  "Jeff Albers 124 W State Street, Medford, WI 54451": [
+    null,
+    null
+  ],
+  "2899 Hwy 47 , Lac Du Flambeau, WI 54538": [
+    null,
+    null
+  ],
+  "203 2nd Street NW , Adams, MN 55909": [
+    43.5686198,
+    -92.7173656
+  ],
+  "323 East 2nd Street , Pillager, MN 56473": [
+    46.324285,
+    -94.4715773
+  ],
+  "439 W Harrison Ave , Milwaukee, WI 53207": [
+    42.9975485,
+    -87.9164055
+  ],
+  "298 Brooks St. North , Eden Valley, MN 55329": [
+    45.3270402,
+    -94.5453113
+  ],
+  "575 Washington Lane , Jenkintown, PA 19046": [
+    40.0961092,
+    -75.1219536
+  ],
+  "5801 Summerville Road , Smiths Station, AL 36877": [
+    32.5373303,
+    -85.095193
+  ],
+  "7450 Titus Drive , Minocqua, WI 54548": [
+    45.8233747,
+    -89.7154016
+  ],
+  "11065 Old Hwy 51 N , Arbor Vitae, WI 54568": [
+    null,
+    null
+  ],
+  "816 Black Oak Dr. , Medford, OR 97504": [
+    42.3141421,
+    -122.8380433
+  ],
+  "192 E. 200 South , Pima, AZ 85543": [
+    32.8931994,
+    -109.8232714
+  ],
+  "3490 W. Main Street , Thatcher, AZ 85552": [
+    32.8494175,
+    -109.758645
+  ],
+  "2000 W Kilbourn Ave , Milwaukee, WI 53233": [
+    43.0424855,
+    -87.9389454
+  ],
+  "2624 N Florida Ave , Alamogordo, NM 88310": [
+    32.9238276,
+    -105.9523036
+  ],
+  "360 S. Patagonia St. , Benson, AZ 85602": [
+    31.9660545,
+    -110.2981994
+  ],
+  "515 Calle Arbolera , Espanola, NM 87532": [
+    null,
+    null
+  ],
+  "3205 North University Drive , Coral Springs, FL 33065": [
+    26.2695614,
+    -80.2502758
+  ],
+  "1301 Waters Ridge Dr , Lewisville, TX 75057": [
+    33.02174,
+    -96.973496
+  ],
+  "9553 W. Edgerton Ave , Hales Corners, WI 53130": [
+    42.9488848,
+    -88.0327669
+  ],
+  "1889 Palm Beach Lakes Road , West Palm Beach, FL 33409": [
+    null,
+    null
+  ],
+  "476 Highland Colony PKWY , Ridgeland, MS 39157": [
+    32.4167993,
+    -90.1713075
+  ],
+  "4321 Military St , Detroit, MI 48210": [
+    42.3325164,
+    -83.1186441
+  ],
+  "2300 South washington Street , Tacoma, WA 98405": [
+    47.242128,
+    -122.4848228
+  ],
+  "1500 Sullivan Road , Aurora, IL 60506": [
+    41.7869841,
+    -88.3547222
+  ],
+  "750 2nd AVE Southeast , Medford, MN 55049": [
+    44.1713975,
+    -93.2422624
+  ],
+  "110 East 16Th Street , Indianapolis, IN 46202": [
+    39.7889791,
+    -86.1554477
+  ],
+  "7750 Henry E. Brown Jr. BLVD , Goose Creek, SC 29445": [
+    33.0143528,
+    -80.0005349
+  ],
+  "1301 Woodbourne Ave , Baltimore, MD 21239": [
+    39.3537237,
+    -76.5939367
+  ],
+  "9400 Southwest Hwy , Oak Lawn, IL 60453": [
+    41.7215841,
+    -87.7677457
+  ],
+  "600 N 4th St , Nashville, AR 71852": [
+    33.949979,
+    -93.850699
+  ],
+  "1121 W Harding St. , Blytheville, AR 72315": [
+    null,
+    null
+  ],
+  "1125 Division Street , Chicago Heights, IL 60411": [
+    41.5110649,
+    -87.6634476
+  ],
+  "50 County Road 13 , Cuba, NM 87013": [
+    36.0263252,
+    -106.9450257
+  ],
+  "3701 33rd Street South , St. Cloud, MN 56301": [
+    45.5164754,
+    -94.2037799
+  ],
+  "2230 Corry Road , Memphis, TN 38106": [
+    35.0850592,
+    -90.0165387
+  ],
+  "400 Highway 43 South , Pelahatchie, MS 39145": [
+    null,
+    null
+  ],
+  "555 Morewood Ave , Pittsburgh, PA 15213": [
+    40.4515107,
+    -79.9426405
+  ],
+  "1638 Bell Rd , Nashville, TN 37211": [
+    36.0452459,
+    -86.7020978
+  ],
+  "1215 W Pullen St , Pine Bluff, AR 71601": [
+    34.2307419,
+    -92.015185
+  ],
+  "322 E Central Blvd, Unit 1104 , Orlando, FL 32801": [
+    null,
+    null
+  ],
+  "2363 Mountain Rd , Hamburg, PA 19526": [
+    40.5755862,
+    -75.9581653
+  ],
+  "103 W.S.F Tatum Blvd , Hattiesburg, MS 39401": [
+    null,
+    null
+  ],
+  "1115 Parklane Road , Mccomb, MS 39648": [
+    31.2353549,
+    -90.4759191
+  ],
+  "544 Lindley Road , Meridian, MS 39305": [
+    32.4155368,
+    -88.6675402
+  ],
+  "549 Dorsett Drive , Indianola, MS 38751": [
+    33.4627224,
+    -90.6380478
+  ],
+  "200 Horton Circle , Ruidoso, NM 88345": [
+    33.3235904,
+    -105.6319774
+  ],
+  "125 North Collison Ave. , Cimarron, NM 87714": [
+    null,
+    null
+  ],
+  "504 First Street , Tularosa, NM 88352": [
+    null,
+    null
+  ],
+  "305 North Court , Farmington, NM 87401": [
+    null,
+    null
+  ],
+  "879 Forest Service Road , Cuba, NM 87013": [
+    null,
+    null
+  ],
+  "800 D Ave , Carrizozo, NM 88301": [
+    33.6413593,
+    -105.8791614
+  ],
+  "1550 Tiger Circle , Raton, NM 87740": [
+    36.887737,
+    -104.4520664
+  ],
+  "1111 El Llano Road , Espanola, NM 87532": [
+    36.007306,
+    -106.0401653
+  ],
+  "10 Swallow Place , Cloudcroft, NM 88317": [
+    32.9585559,
+    -105.7426548
+  ],
+  "1701 S Ninth St , Tucumcari, NM 88401": [
+    null,
+    null
+  ],
+  "603 West Cottonwood , Loving, NM 88256": [
+    32.2795601,
+    -104.0989654
+  ],
+  "1 , 1, MS 1": [
+    3.4283266,
+    98.6246762
+  ],
+  "800 Phillips Avenue , High Point, NC 27262": [
+    35.950091,
+    -80.025212
+  ],
+  "4908 Ridgewood Rd , Jackson, MS 39211": [
+    32.3622493,
+    -90.1391334
+  ],
+  "1605 E Reed Road , Greenville, MS 38703": [
+    33.3855466,
+    -91.0249679
+  ],
+  "200 Whittington Ave , Hot Springs, AR 71901-3408": [
+    34.5204468,
+    -93.0592027
+  ],
+  "6801 Holmes Road , Kansas City, MO 64131-1382": [
+    38.9439875,
+    -94.582577
+  ],
+  "728 21st Ave E. , Seattle, WA 98112": [
+    47.6260756,
+    -122.3041819
+  ],
+  "140 South 140th Street , Burien, WA 98168": [
+    47.4784293,
+    -122.3308611
+  ],
+  "1515 Brewster Street , St. Paul, MN 55108": [
+    44.9751899,
+    -93.1644582
+  ],
+  "1118 W Aztec Blvd , Aztec, NM 87410": [
+    36.8238614,
+    -108.0394506
+  ],
+  "3790 SC-90 , Conway, SC 29526": [
+    33.8219814,
+    -79.0148918
+  ],
+  "715 University Parkway , Natchitoches, LA 71457": [
+    31.7527117,
+    -93.0956272
+  ],
+  "1219 Broad Street , Durham, NC 27705": [
+    36.0193862,
+    -78.9206515
+  ],
+  "271 Moulton Road , Waitsfield, VT 05673": [
+    44.1853277,
+    -72.8526919
+  ],
+  "418 Houghton Brook Road , Putney, VT 05346": [
+    42.9863053,
+    -72.5521471
+  ],
+  "P.O. Box 6 North ,  Clarendon,, VT 05759": [
+    null,
+    null
+  ],
+  "24 Main Camp Rd , Grantham, NH 03753": [
+    null,
+    null
+  ],
+  "52 E 62nd St , New York, NY 10065": [
+    40.7649175,
+    -73.9691761
+  ],
+  "210 E 77th St , New York, NY 10075": [
+    40.7724645,
+    -73.9577203
+  ],
+  "201 W 13th St , New York, NY 10011": [
+    null,
+    null
+  ],
+  "416 E 80th St , New York, NY 10075": [
+    40.7724259,
+    -73.9514811
+  ],
+  "315 E Palisade Ave , Englewood, NJ 07631": [
+    40.8884955,
+    -73.96191
+  ],
+  "86 4th Ave , New York, NY 10003": [
+    40.7318504,
+    -73.9905257
+  ],
+  "46 Cooper Sq , New York, NY 10003": [
+    40.7285321,
+    -73.9905313
+  ],
+  "20-30 W End Ave , New York, NY 10023": [
+    40.7833558,
+    -73.9818971
+  ],
+  "500 Van Emburgh Ave , Washington, NJ 07676": [
+    40.9899366,
+    -74.0786528
+  ],
+  "45 Beekman St , New York, NY 10038": [
+    40.7100437,
+    -74.0055209
+  ],
+  "148 W 90th St , New York, NY 10024": [
+    40.7897522,
+    -73.972198
+  ],
+  "40 Charlton St , New York, NY 10014": [
+    40.726831,
+    -74.0048032
+  ],
+  "272 6th Ave , New York, NY 10014": [
+    40.729248,
+    -74.0022787
+  ],
+  "63 E 83rd St , New York, NY 10028": [
+    40.7784676,
+    -73.9589544
+  ],
+  "20 E 92nd St , New York, NY 10128": [
+    40.7847022,
+    -73.9567178
+  ],
+  "9216 7th Ave , Brooklyn, NY 11228": [
+    40.6125065,
+    -74.0257952
+  ],
+  "50 Prospect Park W , Brooklyn, NY 11215": [
+    40.669459,
+    -73.9733485
+  ],
+  "55 E 84th St , New York, NY 10028": [
+    40.7795674,
+    -73.9587999
+  ],
+  "4 E 98th St , New York, NY 10029": [
+    40.7887127,
+    -73.954207
+  ],
+  "12 E 89th St , New York, NY 10128": [
+    40.782953,
+    -73.9582722
+  ],
+  "619 W 114th St , New York, NY 10025": [
+    40.8073353,
+    -73.966084
+  ],
+  "487 Hudson St , New York, NY 10014": [
+    40.7324158,
+    -74.0070232
+  ],
+  "312 E 95th St , New York, NY 10128": [
+    40.7829772,
+    -73.9467712
+  ],
+  "1 W 88th St , New York, NY 10024": [
+    40.7870109,
+    -73.9688467
+  ],
+  "218 E 16th St , New York, NY 10003": [
+    40.7343967,
+    -73.9859107
+  ],
+  "20 Waterslide Plaza , New York, NY 10010": [
+    null,
+    null
+  ],
+  "120 Broadway Suite 1020, New York, NY 10271": [
+    null,
+    null
+  ],
+  "925 9th Avenue , New York, NY 10019": [
+    40.7691799,
+    -73.985281
+  ],
+  "59 College Ave , Buckhannon, WV 26201": [
+    38.989509,
+    -80.221453
+  ],
+  "51 West College St , Waynesburg, PA 15370": [
+    39.8991304,
+    -80.1859474
+  ],
+  "1201 Locust Ave , Fairmont, WV 26554": [
+    39.4853854,
+    -80.1618783
+  ],
+  "400 Saint Bernardine St , Reading, PA 19607": [
+    null,
+    null
+  ],
+  "7600 Flower Ave , Takoma Park, MD 20912": [
+    38.9861777,
+    -77.0000231
+  ],
+  "300 East 27Th St , North Newton, KS 67117": [
+    null,
+    null
+  ],
+  "1000 N. 4Th St , Fairfield, IA 52557": [
+    41.0175318,
+    -91.9673678
+  ],
+  "1125 East 8Th St , York, NE 68467": [
+    40.8696777,
+    -97.5803408
+  ],
+  "800 W Avon Road , Rochester Hills, MI 48307": [
+    42.668708,
+    -83.1435409
+  ],
+  "101 Highway 11 N , Poplarville, MS 39470": [
+    null,
+    null
+  ],
+  "3 College Drive , Brunswick, GA 31520": [
+    31.1851655,
+    -81.4871215
+  ],
+  "504 College Drive , Albany, GA 31705": [
+    31.5678798,
+    -84.1405794
+  ],
+  "2400 Gillonville Rd , Albany, GA 31707": [
+    null,
+    null
+  ],
+  "2400 Gillionville Road , Albany, GA 31705": [
+    31.581498,
+    -84.2144237
+  ],
+  "504 College Dr , Albany, GA 37105": [
+    31.5678798,
+    -84.1405794
+  ],
+  "2000 Clayton State Blvd , Morrow, GA 30260": [
+    33.5929196,
+    -84.3291975
+  ],
+  "650 College Drive , Dalton, GA 30720": [
+    34.7748018,
+    -85.0027239
+  ],
+  "3000 Frederica St. , Owensboro, KY 42301": [
+    37.744942,
+    -87.115575
+  ],
+  "1 College And Main , Columbus, OH 43209": [
+    null,
+    null
+  ],
+  "100 W College St , Sumter, SC 29150": [
+    33.938103,
+    -80.345901
+  ],
+  "940 2nd St , Portsmouth, OH 45662": [
+    38.7308617,
+    -82.9940014
+  ],
+  "102 Jacoby Drive SW , Epworth, IA 52045": [
+    null,
+    null
+  ],
+  "14000 Jericho Parkway , Bowie, MD 20715": [
+    null,
+    null
+  ],
+  "14000 Jericho Park Rd , Bowie, MD 20715": [
+    39.0181197,
+    -76.7597798
+  ],
+  "223 W Main Street , Salem, WV 26426": [
+    39.283247,
+    -80.567248
+  ],
+  "316 Washington Ave , Wheeling, WV 26003": [
+    40.067676,
+    -80.690748
+  ],
+  "100 College Avenue , Sterling, CO 80701": [
+    40.636912,
+    -103.197652
+  ],
+  "51 West College Street , Waynesburg, PA 15370": [
+    39.8991304,
+    -80.1859474
+  ],
+  "100 University Parkway , Macon, GA 31206": [
+    32.8080807,
+    -83.7320853
+  ],
+  "3219 College Street , Savannah, GA 30458": [
+    32.0244257,
+    -81.0624808
+  ],
+  "1100 Second Street Southeast , Cochran, GA 31014": [
+    null,
+    null
+  ],
+  "71 Airport Road , Eastman, GA 31023": [
+    32.2083943,
+    -83.128126
+  ],
+  "3219 College Street , Savannah, GA 31404": [
+    32.0244257,
+    -81.0624808
+  ],
+  "1000 University Center Lane , Lawrenceville, GA 30043": [
+    33.9811126,
+    -84.0026512
+  ],
+  "800 GA SW State Drive , Americus, GA 31709": [
+    null,
+    null
+  ],
+  "800 GA SW State Dr , Americus, GA 31709": [
+    null,
+    null
+  ],
+  "701 Sammy Davis Jr Dr , Langston, OK 73050": [
+    35.951974,
+    -97.247231
+  ],
+  "500 Kennedy Drive , Pueblo, CO 81648": [
+    null,
+    null
+  ],
+  "100 University Parkway , Mason, GA 31206": [
+    null,
+    null
+  ],
+  "1100 Secon Street SE , Cochran, GA 31014": [
+    null,
+    null
+  ],
+  "1100 Second Street SE , Cochran, GA 31014": [
+    null,
+    null
+  ],
+  "2200 169th Street , Hammond, IN 46323": [
+    41.5813508,
+    -87.474601
+  ],
+  "31 College Dr , Concord, NH 03301": [
+    43.2227474,
+    -71.5313031
+  ],
+  "291 Springfield St , Chicopee, MA 01013": [
+    42.1419011,
+    -72.600423
+  ],
+  "1 Technology Drive , Linn, MO 65051": [
+    38.4668723,
+    -91.8114999
+  ],
+  "208 University Drive , West Liberty, WV 26074": [
+    40.1627811,
+    -80.6038323
+  ],
+  "1101 W 22nd Street , Sioux Falls, SD 57015": [
+    43.5312313,
+    -96.7387395
+  ],
+  "208 University Drive, , West Liberty, WV 26704": [
+    40.1627811,
+    -80.6038323
+  ],
+  "4975 US-51 N , Senatobia, MS 38668": [
+    34.6258204,
+    -89.9685584
+  ],
+  "419 College Dr , Barnesville, GA 30204": [
+    33.0473397,
+    -84.150835
+  ],
+  "1701 South Broadway 110 Russ Hall, Pittsburg, KS 66762": [
+    null,
+    null
+  ],
+  "1020 N 2nd Street , Atchinson, KS 66002": [
+    null,
+    null
+  ],
+  "302 E Cleveland , Pittsburg, KS 66762": [
+    37.3922526,
+    -94.7041466
+  ],
+  "1020 North 2nd Street , Atchinson, KS 66002": [
+    null,
+    null
+  ],
+  "1 St Mary of the Woods College , St Mary of the Woods, IN 47876": [
+    null,
+    null
+  ],
+  "524 W 59th St , New York, NY 10019": [
+    40.7708819,
+    -73.9897055
+  ],
+  "365 5th Ave , New York, NY 10001": [
+    40.7485188,
+    -73.9836393
+  ],
+  "419 COllege Drive , Barnesville, GA 30204": [
+    33.0473397,
+    -84.150835
+  ],
+  "1000 W Garden Ave , Coeur d'Alene, ID 83814": [
+    47.6755145,
+    -116.7959097
+  ],
+  "160 Convent Ave , New York, NY 10031": [
+    40.818198,
+    -73.951009
+  ],
+  "2100 W University Ave , Wichita, KS 67213": [
+    null,
+    null
+  ],
+  "1301 W Main St , Wilburton, OK 74578": [
+    34.912606,
+    -95.328307
+  ],
+  "7000 Mercy Rd , Omaha, NE 68106": [
+    41.2379841,
+    -96.0199888
+  ],
+  "2900 Bedford Ave , Brooklyn, NY 11210": [
+    40.6310352,
+    -73.9520082
+  ],
+  "4513 Manhattan College Pkwy , Bronx, NY 10471": [
+    40.8874403,
+    -73.9043147
+  ],
+  "6000 Town Center Blvd Suite 120, Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "1410 University Avenue , Williston, ND 58801": [
+    48.1577554,
+    -103.6113657
+  ],
+  "505 East Main Street , Raymond, MS 39154": [
+    32.254583,
+    -90.414774
+  ],
+  "101 Central Dr , Raymond, MS 39154": [
+    32.2525276,
+    -90.4103423
+  ],
+  "51 Main Street , Perkinston, MS 39573": [
+    30.7817849,
+    -89.1390861
+  ],
+  "289 Cherry Street , Moorhead, MS 38761": [
+    33.4458674,
+    -90.50405
+  ],
+  "1 Hill Street , Goodman, MS 39079": [
+    32.969013,
+    -89.911519
+  ],
+  "1 Ferncroft Road , DANVERS, MA 01923": [
+    42.5923662,
+    -70.9688185
+  ],
+  "Mcgee Building, 300 Broad Stree , Lynn, MA 01901": [
+    null,
+    null
+  ],
+  "Highway 18 West , Utica, MS 39175": [
+    null,
+    null
+  ],
+  "1500 Raymond Lake Road , Raymond, MS 39154": [
+    null,
+    null
+  ],
+  "275 Broad Street , Decatur, MS 39327": [
+    32.438996,
+    -89.1103462
+  ],
+  "732 21St Avenue South , Minneapolis, MN 55454": [
+    44.966145,
+    -93.2426144
+  ],
+  "101 Highway 11 North , Poplarville, MS 39470": [
+    null,
+    null
+  ],
+  "1250 Siskiyou Blvd. , Ashland, OR 97520": [
+    42.1872382,
+    -122.6970203
+  ],
+  "1250 Siskiyou Blvd , Ashland, OR 97520": [
+    42.1872382,
+    -122.6970203
+  ],
+  "901 North Columbo , Sierra Vista, AZ 85635": [
+    null,
+    null
+  ],
+  "900 Wood Road , Kenosha, WI 53141": [
+    42.6448661,
+    -87.8552527
+  ],
+  "4601 College Blvd , Farmington, NM 87402": [
+    36.7704193,
+    -108.1716495
+  ],
+  "2200 Bonforte Boulevard , Pueblo, CO 81001": [
+    38.3087419,
+    -104.5768455
+  ],
+  "725 Algoma Blvd , Oshkosh, WI 54901": [
+    44.0235323,
+    -88.5490389
+  ],
+  "4975 Highway 51 North , Senatobia, MS 38668": [
+    34.6258204,
+    -89.9685584
+  ],
+  "19351 W Washington Street , Grayslake, IL 60030": [
+    null,
+    null
+  ],
+  "1156 College Drive , Summit, MS 39666": [
+    null,
+    null
+  ],
+  "800 Algoma Blvd , Oshkosh, WI 54901": [
+    44.0252,
+    -88.5510899
+  ],
+  "835 High Street , Oshkosh, WI 54901": [
+    null,
+    null
+  ],
+  "910 Hwy 19 North , Meridian, MS 39307": [
+    null,
+    null
+  ],
+  "1028 J.C. Reed Drive , Wesson, MS 39191": [
+    null,
+    null
+  ],
+  "11 Co-Lin Circle , NATCHEZ, MS 39120": [
+    31.5085439,
+    -91.4006682
+  ],
+  "2211 Riverside Ave , Minneapolis, MN 55454": [
+    44.9673749,
+    -93.2407597
+  ],
+  "6000 Town Center Blvd , Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "2801 N Main Street , Altus, OK 73521": [
+    34.666923,
+    -99.3339601
+  ],
+  "1001 ROGERS STREET , Columbia, MO 65216-0001": [
+    38.9578166,
+    -92.3265723
+  ],
+  "200 University Ave , Dubuque, IA 52001-5050": [
+    42.4985284,
+    -90.6919586
+  ],
+  "8701 W Watertown Plank Rd , Wauwatosa, WI 53226": [
+    43.0438671,
+    -88.0224532
+  ],
+  "9401 Farwest Dr SW , Lakewood, WA 98498": [
+    47.17332,
+    -122.574153
+  ],
+  "1601 39th Avenue SE , Puyallup, WA 98374": [
+    47.157749,
+    -122.2725724
+  ],
+  "7703 Floyd Curl Dr , San Antonio, TX 78229": [
+    29.5048654,
+    -98.5761279
+  ],
+  "800 Main Street , Pewaukee, WI 53072": [
+    43.0719354,
+    -88.2549145
+  ],
+  "807 Walker Avenue , Memphis, TN 38126": [
+    35.1177651,
+    -90.0338729
+  ],
+  "1315 Oakwood Avenue , Raleigh, NC 27610": [
+    35.7844858,
+    -78.621779
+  ],
+  "100 West College Park Drive , Douglas, GA 31533": [
+    31.497054,
+    -82.852498
+  ],
+  "220 North Walnut Street , Boaz, AL 35957": [
+    34.2016798,
+    -86.1683521
+  ],
+  "1630 Metropolitan Parkway Sw , Atlanta, GA 30310": [
+    33.7092791,
+    -84.4053991
+  ],
+  "5441 Highway 20 Ne , Cartersville, GA 30121": [
+    null,
+    null
+  ],
+  "3175 Cedartown Hwy , Rome, GA 30161": [
+    34.2195542,
+    -85.1747542
+  ],
+  "2101 Womack Rd. , Dunwoody, GA 30338": [
+    33.9434705,
+    -84.3065238
+  ],
+  "3251 Panthersville Road , Decatur, GA 30034": [
+    33.6887185,
+    -84.2743667
+  ],
+  "239 Cedar Ln. , Covington, GA 30014": [
+    null,
+    null
+  ],
+  "555 N. Indian Creek Dr. , Clarkston, GA 30021": [
+    33.8092685,
+    -84.2419709
+  ],
+  "3401 S 39Th Street , Milwaukee, WI 53215": [
+    42.98292,
+    -87.963196
+  ],
+  "4257 North 100 Street , Milwaukee, WI 53222": [
+    43.0941576,
+    -88.0392682
+  ],
+  "5050 Ave Maria University Blvd , Ave Maria, FL 34142": [
+    null,
+    null
+  ],
+  "425 S. Wabash Ave , Chicago, IL 60605": [
+    41.8763574,
+    -87.6255466
+  ],
+  "2500 Killington Rd , Killington, VT 05751": [
+    43.637574,
+    -72.78762
+  ],
+  "3 University Drive , Frostburg, MD 21532": [
+    39.6460897,
+    -78.9394336
+  ],
+  "Hall 3 University Drive , Frostburg, MD 21532": [
+    39.6500207,
+    -78.9375413
+  ],
+  "131 College Circle , Swainsboro, GA 30401": [
+    32.5921084,
+    -82.306134
+  ],
+  "22 Parkridge Rd , Haverhill, MA 01835": [
+    42.7649193,
+    -71.1158473
+  ],
+  "22 Parkview Ln , Haverhill, MA 01835": [
+    42.7668713,
+    -71.0734402
+  ],
+  "3 Van de Graaff Dr , Burlington, MA 01803": [
+    42.4823611,
+    -71.1978624
+  ],
+  "85 Wells Ave , Newton, MA 02459": [
+    42.2945011,
+    -71.2018411
+  ],
+  "333 Constitution Ave NW , Washington, DC 20004": [
+    38.8928669,
+    -77.0162253
+  ],
+  "108 Myrtle St , Quincy, MA 02171": [
+    42.27766,
+    -71.0383525
+  ],
+  "200 Independence Ave SW 8th Fl, Washington, DC 20201": [
+    null,
+    null
+  ],
+  "9609 Medical Center Dr RM T, Rockville, MD 20850": [
+    null,
+    null
+  ],
+  "7525 Colshire Dr , McLean, VA 22102": [
+    38.9228986,
+    -77.2036563
+  ],
+  "222 Rosewood Dr , DANVERS, MA 01923": [
+    42.563843,
+    -70.983317
+  ],
+  "5 Omni Drive , Washington, DC 01824": [
+    null,
+    null
+  ],
+  "6 Technology Park Dr , Westford, MA 01886": [
+    42.5726739,
+    -71.418455
+  ],
+  "1 Vision Dr , Natick, MA 01760": [
+    42.3020916,
+    -71.3558611
+  ],
+  "5 Wellington Rd , Lincoln, RI 02865": [
+    41.9188733,
+    -71.479241
+  ],
+  "6 Tech Dr , Andover, MA 01810": [
+    42.688047,
+    -71.2095609
+  ],
+  "21 Kingsland Crossing , Ellsworth, ME 04605": [
+    44.5222948,
+    -68.4011325
+  ],
+  "5738 Forbes Ave , Pittsburgh, PA 15217": [
+    40.4379812,
+    -79.9234911
+  ],
+  "202 Burlington Rd , Bedford, MA 01730": [
+    42.505039,
+    -71.2366285
+  ],
+  "300 Baker Ave , Concord, MA 01742": [
+    42.4599821,
+    -71.3893114
+  ],
+  "One Capitol Hill , PROVIDENCE, RI 02908": [
+    41.849334,
+    -71.4561478
+  ],
+  "555 Turnpike St , Canton, MA 02021": [
+    42.1626842,
+    -71.1123866
+  ],
+  "120 Royall St , Canton, MA 02021": [
+    42.2041901,
+    -71.1292867
+  ],
+  "10 Technology Park Dr , Westford, MA 01886": [
+    42.5726722,
+    -71.418463
+  ],
+  "377 Simarano Dr , Marlborough, MA 01752": [
+    42.3215721,
+    -71.5803129
+  ],
+  "7 Technology Park Dr , Westford, MA 01886": [
+    42.5715541,
+    -71.4143196
+  ],
+  "70 Blanchard Rd , Burlington, MA 01803": [
+    42.480355,
+    -71.2037492
+  ],
+  "307 Waverley Oaks Rd , Waltham, MA 02452": [
+    42.3839815,
+    -71.2092217
+  ],
+  "15 Elizabeth Drive , Chelmsford, MA 01824": [
+    42.5864817,
+    -71.3226803
+  ],
+  "200 Ports Authority Dr , Mt Pleasant, SC 29464": [
+    null,
+    null
+  ],
+  "80 Central St , Boxborough, MA 01720": [
+    42.4980488,
+    -71.4767829
+  ],
+  "859 Willard St , Quincy, MA 02169": [
+    42.227898,
+    -71.031555
+  ],
+  "1500 Port Access Rd , North Charleston, SC 29405": [
+    32.8405533,
+    -79.953115
+  ],
+  "200 Smith St , Waltham, MA 02451": [
+    42.4181334,
+    -71.2535994
+  ],
+  "80 Second Ave , Waltham, MA 02451": [
+    42.3938346,
+    -71.2637139
+  ],
+  "360 Second Avenue , Waltham, MA 02451": [
+    42.3880919,
+    -71.2677369
+  ],
+  "1075 Providence Hwy , Sharon, MA 02067": [
+    42.1131084,
+    -71.2417089
+  ],
+  "200 Wheeler Rd , Burlington, MA 01803": [
+    42.4757339,
+    -71.2166934
+  ],
+  "101 Station Landing , Medford, MA 02155": [
+    42.4016003,
+    -71.081764
+  ],
+  "455 Forest St , Marlborough, MA 01752": [
+    42.3311712,
+    -71.5914258
+  ],
+  "5 Technology Park Dr , Westford, MA 01886": [
+    42.572355,
+    -71.4170046
+  ],
+  "95 Network Dr , Burlington, MA 01803": [
+    null,
+    null
+  ],
+  "55 Walkers Brook Dr , Reading, MA 01867": [
+    42.517805,
+    -71.0913248
+  ],
+  "130 Turner St , Waltham, MA 02453": [
+    42.3628272,
+    -71.2657442
+  ],
+  "141 Longwater Dr , Norwell, MA 02061": [
+    42.1618,
+    -70.883327
+  ],
+  "600 Main St , Bar Harbor, ME 04609": [
+    44.365255,
+    -68.1963155
+  ],
+  "7500 Flying Cloud Dr , Eden Prairie, MN 55344": [
+    44.8670791,
+    -93.4161932
+  ],
+  "10 Discovery Dr , Farmington, CT 06032": [
+    41.7340401,
+    -72.7958954
+  ],
+  "1400 American Ln , Schaumburg, IL 60173": [
+    42.0446276,
+    -88.0429305
+  ],
+  "1011 Reams Fleming Blvd , Franklin, TN 37064": [
+    null,
+    null
+  ],
+  "425 N Martingale Rd , Schaumburg, IL 60173": [
+    42.0357662,
+    -88.0336254
+  ],
+  "1200 W Colonial Life Blvd , Columbia, SC 29210": [
+    34.0221838,
+    -81.0934119
+  ],
+  "2211 Congress St , Portland, ME 04102": [
+    43.6532229,
+    -70.3259152
+  ],
+  "1 Fountain Sq , Chattanooga, TN 37402": [
+    null,
+    null
+  ],
+  "100 Technology Center Dr , Stoughton, MA 02072": [
+    42.14878,
+    -71.06419
+  ],
+  "2211 Congress St Bldg H01, Portland, ME 04102": [
+    null,
+    null
+  ],
+  "25 Mall Rd , Burlington, MA 01803": [
+    null,
+    null
+  ],
+  "492 Old Connecticut Path , Framingham, MA 01701": [
+    42.3130109,
+    -71.3919773
+  ],
+  "161 Worcester Rd , Framingham, MA 01702": [
+    42.2984948,
+    -71.400834
+  ],
+  "1 Wall St , Burlington, MA 01803": [
+    42.485855,
+    -71.18998
+  ],
+  "1 Van de Graff Drive , Burlington, MA 01803": [
+    null,
+    null
+  ],
+  "1000 Independence Ave SW , Washington, DC 20585": [
+    38.8864953,
+    -77.0249351
+  ],
+  "1501 Williamsboro St , Oxford, NC 27565": [
+    36.313597,
+    -78.559214
+  ],
+  "600 East Boulevard , Bismarck, ND 58505": [
+    null,
+    null
+  ],
+  "2420 W Baseline Rd , Tempe, AZ 85282": [
+    33.3788949,
+    -111.9745272
+  ],
+  "600 Highway 169 S Ste 130, St Louis Park, MN 55426": [
+    null,
+    null
+  ],
+  "301 Carlson Pkwy , Minnetonka, MN 55305": [
+    44.97794,
+    -93.4652142
+  ],
+  "13600 Industrial Park Blvd , Plymouth, MN 55441": [
+    45.0034955,
+    -93.4525196
+  ],
+  "14000 Technology Dr , Eden Prairie, MN 55344": [
+    44.858858,
+    -93.448307
+  ],
+  "621 Rose St Celerion - Kitchen, Lincoln, NE 68502": [
+    null,
+    null
+  ],
+  "1650 W 82nd St , Bloomington, MN 55431": [
+    44.8561053,
+    -93.3004531
+  ],
+  "3510 Hopkins Pl N Bldg 4, Oakdale, MN 55128": [
+    null,
+    null
+  ],
+  "16700 13Th Avenue West , Lynwood, WA 98037": [
+    null,
+    null
+  ],
+  "925 Fourth Avenue , Seattle, WA 98104": [
+    47.6054207,
+    -122.3333312
+  ],
+  "4001 204th Street SW , Lynwood, WA 98036": [
+    null,
+    null
+  ],
+  "248 E Capitol St , Jackson, MS 39201": [
+    32.2999709,
+    -90.1851115
+  ],
+  "201 Country Pl , Pearl, MS 39208": [
+    32.2737579,
+    -90.0806408
+  ],
+  "6364 John Harris Dr. , Edina, MN 55439": [
+    44.86815,
+    -93.3824117
+  ],
+  "1255 Kaufman Dr , Saint Paul, MN 55103": [
+    44.980943,
+    -93.1488764
+  ],
+  "2166 Maplewood Dr , Saint Paul, MN 55109": [
+    null,
+    null
+  ],
+  "10 7th St W , St Paul, MN 55102": [
+    null,
+    null
+  ],
+  "1271 Underwood St. , Falcon Heights, MN 55108": [
+    44.9885732,
+    -93.1703982
+  ],
+  "1784 Judson Ave , Falcon Heights, MN 55108": [
+    44.9781082,
+    -93.1744399
+  ],
+  "11610 Trek Drive East , Eatonville, WA 98328": [
+    null,
+    null
+  ],
+  "455 N Galvin Pkwy , Phoenix, AZ 85008": [
+    33.4498774,
+    -111.9517901
+  ],
+  "5400 North Pearl Street , Tacoma, WA 98407": [
+    47.3050982,
+    -122.5209595
+  ],
+  "258 Mill Street , St. Paul, MN 55102": [
+    44.9375587,
+    -93.1024357
+  ],
+  "2020 Remington Pl , Oklahoma City, OK 73111": [
+    35.5232249,
+    -97.4758318
+  ],
+  "1360 Lexington Ave. N. , St. Paul, MN 55102": [
+    44.9133441,
+    -93.1469128
+  ],
+  "3500 Knoxville Zoo Dr , Knoxville, TN 37914": [
+    35.9979809,
+    -83.8897769
+  ],
+  "100 Essex St , Mystic, CT 06355": [
+    41.3444648,
+    -71.9750951
+  ],
+  "PO BOX 40250 , St Paul, MN 55104": [
+    null,
+    null
+  ],
+  "75 Greenmanville Ave , Mystic, CT 06355": [
+    41.3613578,
+    -71.9651517
+  ],
+  "7801 Computer Ave , Bloomington, MN 55435": [
+    44.861788,
+    -93.345551
+  ],
+  "5600 W 83rd St , Bloomington, MN 55437": [
+    44.8544217,
+    -93.3556908
+  ],
+  "152 Grove St, Ste 1100 , Waltham, MA 02453": [
+    null,
+    null
+  ],
+  "100 Hale St , Newburyport, MA 01950": [
+    42.802673,
+    -70.915529
+  ],
+  "7 Wells Ave , Newton, MA 02459": [
+    42.2971082,
+    -71.2043614
+  ],
+  "150 Royall St , Canton, MA 02021": [
+    42.2053762,
+    -71.1323751
+  ],
+  "199 Wells Ave , Newton, MA 02459": [
+    42.2959901,
+    -71.1987538
+  ],
+  "1 Tech Dr , Andover, MA 01810": [
+    42.6870886,
+    -71.2100829
+  ],
+  "350 Granite St , Braintree, MA 02184": [
+    42.2170992,
+    -71.0205925
+  ],
+  "254 2nd Ave , Needham, MA 02494": [
+    42.302796,
+    -71.2150891
+  ],
+  "97 Libbey Industrial Pkwy , Weymouth, MA 02189": [
+    42.1932288,
+    -70.9458999
+  ],
+  "10 Moulton St , Cambridge, MA 02138": [
+    42.3897386,
+    -71.1474638
+  ],
+  "600 Federal St , Andover, MA 01810": [
+    42.6824671,
+    -71.1990509
+  ],
+  "1 Mercantile St , Worcester, MA 01608": [
+    42.2632429,
+    -71.797713
+  ],
+  "250 Royall St , Canton, MA 02021": [
+    42.20634,
+    -71.1353915
+  ],
+  "1 Burlington Woods Dr , Burlington, MA 01803": [
+    42.489987,
+    -71.198777
+  ],
+  "7900 78th St W , Edina, MN 55439": [
+    44.8608354,
+    -93.3876388
+  ],
+  "1 Willow St , Southborough, MA 01772": [
+    42.2972989,
+    -71.4998237
+  ],
+  "201 Burlington Rd , Bedford, MA 01730": [
+    42.5014013,
+    -71.2393251
+  ],
+  "2 Technology Drive , Andover, MA 01810": [
+    null,
+    null
+  ],
+  "1 Albion Rd , Lincoln, RI 02865": [
+    41.948761,
+    -71.465111
+  ],
+  "70 Everett Ave , Chelsea, MA 02150": [
+    42.3929787,
+    -71.0405689
+  ],
+  "580 Pleasant St , Watertown, MA 02472": [
+    42.3649629,
+    -71.2108164
+  ],
+  "5 Wayside Rd , Burlington, MA 01803": [
+    42.4843058,
+    -71.1917143
+  ],
+  "100 Pennsylvania Ave , Framingham, MA 01701": [
+    42.3004515,
+    -71.477867
+  ],
+  "2 Mount Royal Ave , Marlborough, MA 01752": [
+    42.3404213,
+    -71.5784137
+  ],
+  "300 Ballardville Street , Wilmington, MA 01877": [
+    null,
+    null
+  ],
+  "500 John Hancock Rd , Taunton, MA 02780": [
+    41.9404373,
+    -71.1255142
+  ],
+  "39 Olympia Ave , Woburn, MA 01801": [
+    42.4997813,
+    -71.1330855
+  ],
+  "3 Highwood Dr , Tewksbury, MA 01876": [
+    42.6459488,
+    -71.2344775
+  ],
+  "50 Frontage Road , Andover, MA 01810": [
+    42.6336676,
+    -71.184822
+  ],
+  "100 Energy Dr , Canton, MA 02021": [
+    42.1534353,
+    -71.1162665
+  ],
+  "100 Ames Pond Dr , Tewksbury, MA 01876": [
+    42.6401604,
+    -71.224821
+  ],
+  "667-677 North Broad Street , Philadelphia, PA 19125": [
+    null,
+    null
+  ],
+  "30 South 17th Street , Philadelphia, PA 19103": [
+    39.9522247,
+    -75.1695274
+  ],
+  "667 N Broad St , Philadelphia, PA 19123": [
+    39.9657403,
+    -75.1602426
+  ],
+  "2600 Benjamin Franklin Pkwy , Philadelphia, PA 19130": [
+    39.9655661,
+    -75.1815202
+  ],
+  "15 Central Park West , New York, NY 10023": [
+    40.7697087,
+    -73.9810786
+  ],
+  "1103 Biscayne Blvd , Miami, FL 33132": [
+    25.7860327,
+    -80.1863392
+  ],
+  "2900 Southern Blvd , Bronx, NY 10458": [
+    40.8670169,
+    -73.8798904
+  ],
+  "881 7th Ave , New York, NY 10019": [
+    40.7648811,
+    -73.9802763
+  ],
+  "2151 NW 1st Court , Miami, FL 33127": [
+    25.797765,
+    -80.1975115
+  ],
+  "118 North Broad Street , Philadelphia, PA 19102": [
+    39.9552373,
+    -75.1636673
+  ],
+  "225 South Street , Williamstown, MA 01267": [
+    42.707049,
+    -73.2140193
+  ],
+  "18 Fairgrounds Road , Hamilton Township, NJ 08629": [
+    40.238247,
+    -74.71811
+  ],
+  "667-677 North Broad Street , Philadelphia, PA 19123": [
+    null,
+    null
+  ],
+  "2025 Benjamin Franklin Parkway , Philadelphia, PA 19130": [
+    39.9605495,
+    -75.1726581
+  ],
+  "660 Fifth Avenue , New York, NY 10103": [
+    40.9205609,
+    -73.8042663
+  ],
+  "125 West 55th Street , New York, NY 10019": [
+    40.7637414,
+    -73.9790095
+  ],
+  "610 Market Street 8th Floor, Philadelphia, PA 19106": [
+    null,
+    null
+  ],
+  "2 West Loop Road , Roosevelt Island, NY 10044": [
+    40.7557895,
+    -73.9562046
+  ],
+  "4155 Linnean Ave NW , Washington, DC 20008": [
+    38.9436528,
+    -77.0526526
+  ],
+  "855 6th Ave , New York, NY 10001": [
+    40.7478014,
+    -73.989858
+  ],
+  "601 Walnut Street , Philadelphia, PA 19106": [
+    39.948127,
+    -75.1518444
+  ],
+  "1101 Biscayne Blvd , Miami, FL 33132": [
+    25.7853066,
+    -80.1878515
+  ],
+  "1451 S Olive Avenue , West Palm Beach, FL 33401": [
+    26.7006506,
+    -80.052377
+  ],
+  "610 Market Street , Philadelphia, PA 19106": [
+    39.9506886,
+    -75.1506854
+  ],
+  "55 Hudson Yards , New York City, NY 10001": [
+    40.7552063,
+    -74.0017804
+  ],
+  "1001 S Tamiami Trail , Sarasota, FL 34237": [
+    27.3256414,
+    -82.5290239
+  ],
+  "2105 N Miami Ave , Miami, FL 33127": [
+    25.7969954,
+    -80.1945726
+  ],
+  "55 Music Concourse Dr , San Francisco, CA 94118": [
+    37.7697064,
+    -122.4674984
+  ],
+  "9 W  57Th St , New York, NY 10019": [
+    40.7638353,
+    -73.9749533
+  ],
+  "3 Embarcadero Center 20th Floor, San Francisco, CA 94111": [
+    null,
+    null
+  ],
+  "Bank of America Tower 1 Bryant Park, Floor 44, New York, NY 10036": [
+    null,
+    null
+  ],
+  "1300 Biscayne Blvd , Miami, FL 33132": [
+    25.7876286,
+    -80.1900593
+  ],
+  "10250 CONSTELLATION BLVD SUITE 250, Los Angeles, CA 90067": [
+    null,
+    null
+  ],
+  "2 Embarcadero Center Suite #200, San Francisco, CA 94111": [
+    null,
+    null
+  ],
+  "385 E Colorado Blvd , Pasadena, CA 91101": [
+    34.146533,
+    -118.1417925
+  ],
+  "89 South Street , NY, NY 10038": [
+    null,
+    null
+  ],
+  "855 S Mint St , Charlotte, NC 28202": [
+    35.2241736,
+    -80.8524978
+  ],
+  "2121 Rosecrans Ave , El Segundo, CA 90245": [
+    33.9027026,
+    -118.3879475
+  ],
+  "1300 Biscayne Boulevard , Miami, FL 33132": [
+    25.7876289,
+    -80.1885311
+  ],
+  "41-38 37th St , Long Island City, NY 11101": [
+    40.7343367,
+    -73.9358988
+  ],
+  "5001 Newport Coast Drive , Irvine, CA 92603": [
+    33.6310168,
+    -117.8339324
+  ],
+  "100 West Putman Avenue , Greenwich, CT 06830": [
+    null,
+    null
+  ],
+  "18191 Von Karman Ave Suite 300, Irvine, CA 92612": [
+    null,
+    null
+  ],
+  "2201 E. Camelback Rd Suite 215, Phoenix, AZ 85016": [
+    null,
+    null
+  ],
+  "777 Scudders Mill Road Bldg 2, Plainsboro, NJ 08536": [
+    null,
+    null
+  ],
+  "10265 Science Center Drive , San Diego, CA 92121": [
+    32.8901014,
+    -117.232451
+  ],
+  "8585 Commerce Ave, Unit 11 & 12 , San Diego, CA 92121": [
+    null,
+    null
+  ],
+  "900 Ave D , San Francisco, CA 94130": [
+    37.8220389,
+    -122.3712862
+  ],
+  "81 Highland Avenue , Tarrytown, NY 10591": [
+    41.071469,
+    -73.8516028
+  ],
+  "530 7th Ave Suite 301, New York, NY 10018": [
+    null,
+    null
+  ],
+  "151 W 42nd St , New York, NY 10036": [
+    40.7554036,
+    -73.9852254
+  ],
+  "701 Brickell Ave , Miami, FL 33131": [
+    25.7670884,
+    -80.1896963
+  ],
+  "610 Market St , Philadelphia, PA 19106": [
+    39.9506886,
+    -75.1506854
+  ],
+  "500 Dallas St Level 31, Houston, TX 77002": [
+    null,
+    null
+  ],
+  "2230 Bandmate Way , Raleigh, NC 27607": [
+    35.8148685,
+    -78.7189777
+  ],
+  "297 N Cattlemen Rd , Sarasota, FL 34243": [
+    27.3815815,
+    -82.4558584
+  ],
+  "125 W 55th St , New York, NY 10019": [
+    40.7637414,
+    -73.9790095
+  ],
+  "100 N Horticulture Dr , Philadelphia, PA 19131": [
+    null,
+    null
+  ],
+  "1301 Biscayne Blvd , Miami, FL 33132": [
+    25.7873445,
+    -80.1885511
+  ],
+  "1097 N Broadway , Yonkers, NY 10701": [
+    40.9749228,
+    -73.8817327
+  ],
+  "1095 Avenue of the Americas , New York, NY 10036": [
+    40.7546492,
+    -73.9848112
+  ],
+  "375 Fairfield Ave , Stamford, CT 06902": [
+    41.0364176,
+    -73.5533032
+  ],
+  "6130 S Avalon Blvd , Los Angeles, CA 90003": [
+    33.9443091,
+    -118.2649607
+  ],
+  "667 N Broad St , Philadelphia, PA 19130": [
+    39.9657403,
+    -75.1602426
+  ],
+  "1 Lovejoy Wharf , Boston, MA 02114": [
+    42.3673628,
+    -71.0594069
+  ],
+  "7 Bryant Park , New York, NY 10018": [
+    40.7533123,
+    -73.9856305
+  ],
+  "1050 Monticello Loop , Charlottesville, VA 22902": [
+    38.0058792,
+    -78.451947
+  ],
+  "201 E Capitol Street SE , Washington, DC 20003": [
+    38.8894332,
+    -77.0027937
+  ],
+  "255 Beach Dr NE , St Petersburg, FL 33701": [
+    27.7744658,
+    -82.6318274
+  ],
+  "2151 NW 1st Courty , Miami, FL 33127": [
+    null,
+    null
+  ],
+  "3333 N Tamiami Trail, Unit 100 , Sarasota, FL 34234": [
+    null,
+    null
+  ],
+  "390 Madison Ave , New York, NY 10017": [
+    40.7002005,
+    -73.6541988
+  ],
+  "18191 Von Karman Ave Suite 300, Los Angeles, CA 92612": [
+    null,
+    null
+  ],
+  "5905 Wilshire Blvd , Los Angeles, CA 90036": [
+    34.0644724,
+    -118.3599459
+  ],
+  "2665 South Shirlington Road , Arlington, VA 22206": [
+    38.8448595,
+    -77.0841339
+  ],
+  "2663 South Shirlington Road , Arlington, VA 22206": [
+    38.8448722,
+    -77.0841
+  ],
+  "2659 S Shirlington Rd , Arlington, VA 22206": [
+    38.8444543,
+    -77.084497
+  ],
+  "50 MASSACHUSETTS AVE NW , Washington, DC 20002": [
+    38.8976715,
+    -77.009789
+  ],
+  "2660 South Shirlington Road , Arlington, VA 22206": [
+    38.843847,
+    -77.085816
+  ],
+  "2668 South Shirlington Road , Arlington, VA 22206": [
+    38.8438206,
+    -77.0858186
+  ],
+  "2667 South Shirlington Road , Arlington, VA 22206": [
+    38.844847,
+    -77.0841678
+  ],
+  "108 Wally Stone Lane , Greenfield, NH 03047": [
+    42.9671357,
+    -71.8958206
+  ],
+  "n8651 Townline Rd , East Troy, WI 53120": [
+    42.8059086,
+    -88.4246518
+  ],
+  "2135 Rim Rock Road , Madison, WI 53708": [
+    null,
+    null
+  ],
+  "234 Woodrow Wilson Ave , Fishersville, VA 22939": [
+    null,
+    null
+  ],
+  "103 Washington Street , Elmira, NY 14901": [
+    42.089666,
+    -76.7959403
+  ],
+  "110 McIntyre Road , Pittsburgh, PA 15237": [
+    null,
+    null
+  ],
+  "955 Rivermont Drive , Pittsburgh, PA 15207": [
+    40.4074039,
+    -79.9291517
+  ],
+  "300 Kane Blvd , Pittsburgh, PA 15243": [
+    40.3737507,
+    -80.087041
+  ],
+  "100 9th St , McKeesport, PA 15132": [
+    40.3459991,
+    -79.8669064
+  ],
+  "100 Ninth Street , McKeesport, PA 15132": [
+    null,
+    null
+  ],
+  "288 Villa Drive PO Box 122, Villa Maria, PA 16155": [
+    null,
+    null
+  ],
+  "460 Bernardine St , Reading, PA 19607": [
+    null,
+    null
+  ],
+  "464 Bernardine St , Reading, PA 19607": [
+    null,
+    null
+  ],
+  "1011 Berk Road , Leesport, PA 19533": [
+    null,
+    null
+  ],
+  "1040 Berks Road , Leesport, PA 19533": [
+    40.3795408,
+    -76.0158335
+  ],
+  "5900 Delhi Ave , Mt St. Joseph, OH 45051": [
+    null,
+    null
+  ],
+  "112 W Main Street , Northborough, MA 01532": [
+    null,
+    null
+  ],
+  "1101 Black Oak Dr. , New Brighton, MN 55112": [
+    45.068109,
+    -93.223619
+  ],
+  "618 E 17th St. , Minneapolis, MN 55404": [
+    null,
+    null
+  ],
+  "11400 Fourth Street North , Minnetonka, MN 55343": [
+    null,
+    null
+  ],
+  "2555 Hamline Ave. , Roseville, MN 55113": [
+    45.017934,
+    -93.156901
+  ],
+  "12600 Marion Ln. W. , Minnetonka, MN 55305": [
+    44.972452,
+    -93.4407876
+  ],
+  "100 Glen Oaks Dr. , New London, MN 56273": [
+    45.304118,
+    -94.944161
+  ],
+  "425 7th St NW , Cass Lake, MN 56633": [
+    47.3845092,
+    -94.6090392
+  ],
+  "257 West St. George Ave. , Grantsburg, WI 54840": [
+    45.7747536,
+    -92.687095
+  ],
+  "1900 Ballington Boulevard NW , Rochester, MN 55901": [
+    44.0817115,
+    -92.4903102
+  ],
+  "1900 Ballington Boulevard NW Bldg B, Rochester, MN 55901": [
+    null,
+    null
+  ],
+  "1850 Sarazin Street , Shakopee, MN 55379": [
+    44.7717862,
+    -93.5003255
+  ],
+  "3400 Lincoln Ave , Evansville, IN 47714": [
+    37.9727455,
+    -87.5030389
+  ],
+  "1098 S State Road 25 , Logansport, IN 46947": [
+    40.7726186,
+    -86.3540243
+  ],
+  "711 Green Road , Madison, IN 47250": [
+    38.7457725,
+    -85.401845
+  ],
+  "441 N Wabash Ave , Marion, IN 46952": [
+    40.5648777,
+    -85.6655051
+  ],
+  "5530 Ballington Rd NW , Rochester, MN 55901": [
+    44.0828749,
+    -92.4930733
+  ],
+  "6000 Town Center Way , Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "242 West Shamrock Street , Pineville, LA 71360": [
+    31.323954,
+    -92.436581
+  ],
+  "100 Pinecrest Drive , Pineville, LA 71361": [
+    31.365474,
+    -92.405991
+  ],
+  "130 Highland Parkway , Picayune, MS 39466": [
+    30.5503439,
+    -89.665166
+  ],
+  "1800 Park Place Avenue , Fort Worth, TX 76110": [
+    32.7272334,
+    -97.3469633
+  ],
+  "400 W Lyndon B Johnson Fwy , Irving, TX 75063": [
+    32.9180158,
+    -96.9669796
+  ],
+  "3350 Highway 468 W , WHITFIELD, MS 39193": [
+    null,
+    null
+  ],
+  "911 Marion Way , Gas City, IN 46933": [
+    null,
+    null
+  ],
+  "254 Hwy 3048 , Rayville, LA 71269": [
+    null,
+    null
+  ],
+  "200 West 134 Place , Cut Off, LA 70345": [
+    null,
+    null
+  ],
+  "501 Keyser Ave , Natchitoches, LA 71457": [
+    31.7524891,
+    -93.077971
+  ],
+  "40 Union Church Rd , Meadville, MS 39653": [
+    31.47333,
+    -90.8843496
+  ],
+  "498 NW 18th St , Richmond, IN 47374": [
+    39.8344797,
+    -84.9269714
+  ],
+  "2744 Grand Vista Circle , Colorado Springs, CO 80909": [
+    38.8720739,
+    -104.8525813
+  ],
+  "1560 Sumrall Road , Columbia, MS 39429": [
+    31.2559527,
+    -89.8056073
+  ],
+  "100 Hospital Drive , Tylertown, MS 39667": [
+    31.120302,
+    -90.156888
+  ],
+  "248 Locust Lane , Madison, MS 39110": [
+    32.4710381,
+    -90.1233913
+  ],
+  "178 Hwy 24 , Centreville, MS 39631": [
+    null,
+    null
+  ],
+  "305 W. Moody Street , Poplarville, MS 39470": [
+    30.8566476,
+    -89.5418842
+  ],
+  "404 South Bradley Street , Warren, AR 71671": [
+    33.6108031,
+    -92.0596337
+  ],
+  "2106 Loop Road , Winnsboro, LA 71295": [
+    32.1587526,
+    -91.7066693
+  ],
+  "1120 Rose Street , Prentiss, MS 39747": [
+    31.5944095,
+    -89.8730377
+  ],
+  "1102 Rose Street , Prentiss, MS 39474": [
+    31.5941702,
+    -89.8723001
+  ],
+  "1700 EE Wallace Boulevard , Ferriday, LA 71334": [
+    null,
+    null
+  ],
+  "150 Highway 80 East P. O. Box 890, Demopolis, AL 36732": [
+    null,
+    null
+  ],
+  "100 Woman's Way , BATON ROUGE, LA 70817": [
+    30.3862299,
+    -91.0376479
+  ],
+  "121 BAKERS STREET , Indianola, MS 38751": [
+    null,
+    null
+  ],
+  "200 DOMINICAN , Madison, MS 39110": [
+    32.457753,
+    -90.136726
+  ],
+  "2903 HIGHWAY 32 EAST , GREENWOOD, MS 38935": [
+    null,
+    null
+  ],
+  "2901 Hwy 82 West , Greenfield, MS 39110": [
+    null,
+    null
+  ],
+  "600 East Smith Street , Kent, WA 98031": [
+    47.3831694,
+    -122.2266875
+  ],
+  "540 Hancock Street , Quincy, MA 02170": [
+    42.2707322,
+    -71.0204405
+  ],
+  "400 Mast Road , Goffstown, NH 03045": [
+    43.0063997,
+    -71.5320865
+  ],
+  "1 Monument Square , Beverly, MA 01915": [
+    42.5475911,
+    -70.8765758
+  ],
+  "600 Canton Ave , Milton, MA 02186": [
+    null,
+    null
+  ],
+  "2075 Scotland Avenue , Chambersburg, PA 17201-1499": [
+    39.9578896,
+    -77.6323757
+  ],
+  "2055 Scotland Ave , Chambersburg, PA 17201": [
+    39.9578475,
+    -77.6324263
+  ],
+  "One Heidelberg Drive , Wernersville, PA 19565": [
+    null,
+    null
+  ],
+  "1425 Philadelphia Avenue , Chambersburg, PA 17201": [
+    39.9525752,
+    -77.6477915
+  ],
+  "108 South Main Street , Richlandtown, PA 18955-0039": [
+    40.4685255,
+    -75.3229524
+  ],
+  "100 Norman Drive , Cranberry Township, PA 16066-4229": [
+    40.705263,
+    -80.1169345
+  ],
+  "3952 Columbia Ave , Columbia, PA 17512": [
+    40.8198921,
+    -76.3412169
+  ],
+  "1500 Northfield Drive , Chambersburg, PA 17201-1499": [
+    null,
+    null
+  ],
+  "700 Bower Hill Road , Pittsburgh, PA 15243": [
+    40.3843016,
+    -80.0587762
+  ],
+  "133 Laurelbrooke Drive , Brookville, PA 15825": [
+    41.1534571,
+    -79.0967481
+  ],
+  "500 Route 909 , Verona, PA 15147": [
+    null,
+    null
+  ],
+  "226 N. Lincoln Avenue , Newtown, PA 18940": [
+    40.2331975,
+    -74.9308264
+  ],
+  "238 South Market Street , New Wilmington, PA 16142": [
+    41.120088,
+    -80.333191
+  ],
+  "1020 State Street , Baden,, PA 15005": [
+    40.6363837,
+    -80.2291934
+  ],
+  "137 Mount St. Joseph Road , Wheeling, WV 26003": [
+    null,
+    null
+  ],
+  "500 Providence Point Blvd. , Pittsburgh, PA 15243": [
+    40.3782343,
+    -80.0886037
+  ],
+  "4702 East Main Street , Belleville, PA 17004": [
+    40.6142641,
+    -77.7019474
+  ],
+  "301 Walnut St , Amite, LA 70422": [
+    30.7325467,
+    -90.5133626
+  ],
+  "1200 Tel Hai Circle , Honey Brook, PA 19344": [
+    40.061576,
+    -75.8860027
+  ],
+  "2400 Ansys Dr , Canonsburg, PA 15317": [
+    40.2731085,
+    -80.1684093
+  ],
+  "115 Technology Drive , Butler, PA 16001": [
+    40.8655296,
+    -79.9685743
+  ],
+  "17500 W 119th ST , Olathe, KS 66061": [
+    38.9127724,
+    -94.8027457
+  ],
+  "1429 Kasold Dr , LAWRENCE, KS 66049": [
+    38.9589313,
+    -95.2796304
+  ],
+  "575 Couch Avenue , Kirkwood, MO 63122": [
+    38.5733309,
+    -90.4265159
+  ],
+  "500 Cayce St , Farmington, MO 63640": [
+    37.780888,
+    -90.428245
+  ],
+  "1200 Homelife Plaza , Rolla, MO 65401": [
+    37.9545433,
+    -91.7538718
+  ],
+  "2401 S HOrton St , Fort Scott, KS 66701": [
+    37.812229,
+    -94.713378
+  ],
+  "3501 Dirr Ave , Parsons, KS 67357": [
+    37.3442338,
+    -95.290462
+  ],
+  "2300 Industrial Road , Emporia, KS 66801": [
+    38.4242423,
+    -96.2169654
+  ],
+  "4712 SW 6th Ave , Topeka, KS 66606": [
+    39.0592025,
+    -95.7409854
+  ],
+  "924 8th St , Clay Center, KS 67432": [
+    39.3784244,
+    -97.12068
+  ],
+  "2601 E Crawford St , Salina, KS 67401": [
+    38.827242,
+    -97.564605
+  ],
+  "1200 E 7th St , Newton, KS 67114": [
+    38.0512584,
+    -97.325415
+  ],
+  "1711 N 4th St , Arkansas City, KS 67005": [
+    37.0826798,
+    -97.0447599
+  ],
+  "4700 W 13th St N , Wichita, KS 67212": [
+    37.709093,
+    -97.3973
+  ],
+  "200 Campus Dr , Dodge City, KS 67801": [
+    37.774601,
+    -100.013178
+  ],
+  "1065 Milne Circle , Covington, LA 70435": [
+    null,
+    null
+  ],
+  "1170 W Railroad St , Long Beach, MS 39437": [
+    30.3419746,
+    -89.185059
+  ],
+  "2445 W 34th St , Erie, PA 16506": [
+    42.0849398,
+    -80.1241208
+  ],
+  "182 Saint Francis Ave , Tiffin, OH 44883": [
+    41.0969334,
+    -83.1694956
+  ],
+  "5354 W 62nd St , Indianapolis, IN 46268": [
+    39.8673009,
+    -86.25356
+  ],
+  "685 Steere Farm Rd , Pascoag, RI 02859": [
+    null,
+    null
+  ],
+  "200 Saint Francis Ave , Tiffin, OH 44883": [
+    41.0979702,
+    -83.1678946
+  ],
+  "1000 Bower Hill Road , Pittsburgh, PA 15243": [
+    40.3785917,
+    -80.0661393
+  ],
+  "835 Hospital Road , Indiana, PA 15701": [
+    40.6072635,
+    -79.156312
+  ],
+  "155 Wilson Avenue , Washington, PA 15301": [
+    40.1837458,
+    -80.246171
+  ],
+  "350 Bonar Avenue , Waynesburg, PA 15370": [
+    39.9008559,
+    -80.1736051
+  ],
+  "1980 Crompond Road , Cortlandt Manor, NY 10567": [
+    41.2926975,
+    -73.8931586
+  ],
+  "801 Middleford Road , Seaford, DE 19973-3689": [
+    38.6416361,
+    -75.604395
+  ],
+  "120 5th Ave Suite 2900, Pittsburgh, PA 15222": [
+    null,
+    null
+  ],
+  "565 Coal Valley Road , Jefferson Hills, PA 15025": [
+    40.3184899,
+    -79.9334482
+  ],
+  "320 E North AVE , Pittsburgh, PA 15212": [
+    40.4569719,
+    -80.0033069
+  ],
+  "4800 Friendship Ave , Pittsburgh, PA 15224": [
+    40.4610027,
+    -79.9461238
+  ],
+  "232 W 25th St , Erie, PA 16502": [
+    42.1097918,
+    -80.0796772
+  ],
+  "100 Medical Blvd , Canonsburg, PA 15317": [
+    40.2461735,
+    -80.190737
+  ],
+  "631 N Broad Street Ext , Grove City, PA 16127": [
+    null,
+    null
+  ],
+  "2570 Haymaker Rd , Monroeville, PA 15146": [
+    40.4289169,
+    -79.7482277
+  ],
+  "12311 Perry Hwy , Wexford, PA 15090": [
+    40.635622,
+    -80.0639855
+  ],
+  "1301 Carlisle Street , Natrona Heights, PA 15065": [
+    40.6186374,
+    -79.7366769
+  ],
+  "2020 26th Ave E , Bradenton, FL 34208": [
+    27.4756549,
+    -82.5395997
+  ],
+  "916 Hickory Street , Hollidaysburg, PA 16648": [
+    40.4351425,
+    -78.387288
+  ],
+  "81 Hillcrest Drive , Punxsutawney, PA 15767": [
+    40.9607705,
+    -78.9997797
+  ],
+  "214 Peach Orchard Road , Mcconnellsburg, PA 17233": [
+    39.9379344,
+    -78.007846
+  ],
+  "1648 Huntingdon Pike , Meadowbrook, PA 19046": [
+    40.1089269,
+    -75.0812874
+  ],
+  "8580 Verree Rd , Philadelphia, PA 19111": [
+    40.0839402,
+    -75.0652547
+  ],
+  "105 Burgess Drive , Zelienople, PA 16063": [
+    40.7889938,
+    -80.1362153
+  ],
+  "100 Burgess Dr , Zelienople, PA 16063": [
+    40.7906821,
+    -80.1368869
+  ],
+  "500 Wittenberg Way , Mars, PA 16046": [
+    40.6936785,
+    -80.0143107
+  ],
+  "811 Village Dr , Pittsburgh, PA 15237": [
+    null,
+    null
+  ],
+  "1500 Graham Way , Mars, PA 16046": [
+    null,
+    null
+  ],
+  "12400 Dallas Pkwy , Frisco, TX 75033": [
+    33.180417,
+    -96.838868
+  ],
+  "201 Tabernacle Road , Black Mountain, NC 28711": [
+    35.6122502,
+    -82.3505518
+  ],
+  "26001 Jefferson Ave , St Clair Shores, MI 48081": [
+    42.483602,
+    -82.8891334
+  ],
+  "11721 Tradition Pkwy , Biloxi, MS 39532": [
+    30.4857139,
+    -89.0286895
+  ],
+  "800 Manor Dr , Washington, PA 15301": [
+    40.181061,
+    -80.220589
+  ],
+  "3430 Rocky River Dr , Cleveland, OH 44111": [
+    41.4598216,
+    -81.818089
+  ],
+  "39 Olympia Avenue Suite 2, Woburn, MA 01801": [
+    null,
+    null
+  ],
+  "39 Olympia Avenue Suite 2, Woburn, MA 01835": [
+    null,
+    null
+  ],
+  "31 Heath Street , Brockton, MA 02192": [
+    null,
+    null
+  ],
+  "755 Somerville Ave Apt 3 , Somerville, MA 02143": [
+    null,
+    null
+  ],
+  "68 Quincy Way , Attleboro, MA 02703": [
+    41.9687656,
+    -71.2950636
+  ],
+  "2400 Ansys Drive Suite 404, Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "101 N Tryon St Suite 525, Charlotte, NC 28246": [
+    null,
+    null
+  ],
+  "4920 Westway Park Blvd Suite 150, Houston, TX 77041": [
+    null,
+    null
+  ],
+  "4920 Westway Park Blvd Ste 150 & 170, Houston, TX 77041": [
+    null,
+    null
+  ],
+  "101 N Tryon St , Charlotte, NC 28202": [
+    35.227823,
+    -80.8428307
+  ],
+  "101 N Tryon St , Charlotte, NC 28246": [
+    35.227823,
+    -80.8428307
+  ],
+  "4135 South Stream Blvd , Charlotte, NC 28217": [
+    35.1832195,
+    -80.9202881
+  ],
+  "101 N Tryon St Ste 525 , Charlotte, NC 28202": [
+    null,
+    null
+  ],
+  "1010 N Tryon St Suite 525 , Charlotte, NC 28202": [
+    null,
+    null
+  ],
+  "4920 Westway Park Blvd , Houston, TX 77041": [
+    29.8389022,
+    -95.5581502
+  ],
+  "101 N Tryon St Ste 525, Charlotte, NC 28202": [
+    null,
+    null
+  ],
+  "4135 South Stream Blvd Sutie 250, Charlotte, NC 28217": [
+    null,
+    null
+  ],
+  "775 Woodlands Pkwy , Ridgeland, MS 39157": [
+    32.4026692,
+    -90.1122256
+  ],
+  "4920 Westway Park Blvd Suite 150 & 170, Houston, TX 77041": [
+    null,
+    null
+  ],
+  "1751 County Rd B West #300 , Roseville, MN 55113": [
+    null,
+    null
+  ],
+  "4532 E Evans Dr , Phoenix, AZ 85032": [
+    33.6183482,
+    -111.9836377
+  ],
+  "5714 Primrose Ave , Lisle, IL 60532": [
+    41.782035,
+    -88.064114
+  ],
+  "116 Pinecrest Ave , Dallas, PA 18612": [
+    41.3318677,
+    -75.9671957
+  ],
+  "1380 Ritter St , North Aurora, IL 60542": [
+    41.812842,
+    -88.356605
+  ],
+  "2283 County Road 328 , Glen Rose, TX 76043": [
+    null,
+    null
+  ],
+  "1701 Cross Timbers Dr , Prosper, TX 75078": [
+    33.234079,
+    -96.779618
+  ],
+  "101 N Tryon St Ste 525, Charlotte, NC 28246": [
+    null,
+    null
+  ],
+  "6000 Town Center Blvd Ste 120, Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "1751 County Rd B West #300 , Roseville, PA 55113": [
+    null,
+    null
+  ],
+  "1751 County Rd B West Suite 300, Roseville, MN 55113": [
+    null,
+    null
+  ],
+  "585 Edelweiss Ct , ANTIOCH, IL 60002": [
+    42.46963,
+    -88.1028352
+  ],
+  "859 Black Oak Circle , Pearl, MS 39208": [
+    32.2763107,
+    -90.1179177
+  ],
+  "PO BOX 40250 , Saint Paul, MN 55104": [
+    null,
+    null
+  ],
+  "3412 Bianca Ct , Export, PA 15632": [
+    null,
+    null
+  ],
+  "40 Paces Landing Trace , Newnam, GA 30263": [
+    null,
+    null
+  ],
+  "257 Conestoga Trail , Pulaski, PA 16143": [
+    41.1036056,
+    -80.4825236
+  ],
+  "10011 Liberty Road , Frederick, MD 21701": [
+    39.4537819,
+    -77.3182467
+  ],
+  "51 Southpond Road , South Glastonbury, CT 06073": [
+    41.6679266,
+    -72.5942614
+  ],
+  "2398 Woodcrest Drive , Johnstown, PA 15905": [
+    null,
+    null
+  ],
+  "1823 Fawns Creek Crossing , Mount Juliet, TN 37122": [
+    null,
+    null
+  ],
+  "657 Cullman Rd , Arab, AL 35016": [
+    34.3141922,
+    -86.5063735
+  ],
+  "16124 Shirley St , Omaha, NE 68130": [
+    41.2403624,
+    -96.1670321
+  ],
+  "4656 Gilronan Ct , Palm Harbor, FL 34685": [
+    null,
+    null
+  ],
+  "3116 Stinson Dr , Plano, TX 75025": [
+    33.1071194,
+    -96.7527288
+  ],
+  "9846 Atherton Way , Highlands Ranch, CO 80130": [
+    null,
+    null
+  ],
+  "2205 S Western Ave , Sioux Falls, SD 57105": [
+    43.5256537,
+    -96.7513116
+  ],
+  "3319 W Augusta Ct , Coeur D Alene, ID 83815": [
+    null,
+    null
+  ],
+  "3768 Summer Place , Virginia Beach, VA 23453": [
+    36.8025781,
+    -76.1034259
+  ],
+  "6704 34th Ave W , Bradenton, FL 34209": [
+    27.4725017,
+    -82.6282872
+  ],
+  "11172 Billingham Ave NW , Uniontown, OH 44685": [
+    null,
+    null
+  ],
+  "207 Regency Circle , Moyock, NC 27958": [
+    null,
+    null
+  ],
+  "364 Sandbrook Ct , Noblesville, IN 46062": [
+    null,
+    null
+  ],
+  "320 Deerview Ave , Tea, SD 57064": [
+    null,
+    null
+  ],
+  "198 Shamrock Dr SW , Sunset Beach, NC 28468": [
+    null,
+    null
+  ],
+  "4400 Beechcliff Dr , Kingsport, TN 37664": [
+    36.549738,
+    -82.481766
+  ],
+  "156 S Emery Ln , Idaho Falls, ID 83401": [
+    null,
+    null
+  ],
+  "2401 212th Ave NW , Glenburn, ND 58740": [
+    null,
+    null
+  ],
+  "830 Mississippi Ave , Davenport, IA 52803": [
+    41.5288108,
+    -90.5539079
+  ],
+  "614 Station Road A , Scenery Hill, PA 15360": [
+    null,
+    null
+  ],
+  "2984 Meadow Lark Dr. , East Point, GA 30344": [
+    33.6741447,
+    -84.4668933
+  ],
+  "406 Bobwhite Ct , Statesboro, GA 30458": [
+    null,
+    null
+  ],
+  "45 Merwin Brook Rd , Brookfield, CT 06804": [
+    41.4810508,
+    -73.3744626
+  ],
+  "275 Foggy River Road , Hollister, MO 65672": [
+    null,
+    null
+  ],
+  "928 North Forest Trail , Crownsville, MD 21032": [
+    null,
+    null
+  ],
+  "6117 Yellowood Rd , Charlotte, NC 28210": [
+    35.1283345,
+    -80.8413679
+  ],
+  "719 W. Castlebury Circle , Saline, MI 48176": [
+    42.1669298,
+    -83.8010001
+  ],
+  "986 Baron Drive , Yardley, PA 19067": [
+    null,
+    null
+  ],
+  "10631 Honeyfur Ct , Charlotte, NC 28278": [
+    null,
+    null
+  ],
+  "2400 Ansys Drive, Suite 404 , Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "2666 South Shirlington Road , Arlington, VA 22206": [
+    38.8438272,
+    -77.0858183
+  ],
+  "2659 South Shirlington Road , Arlington, VA 22206": [
+    38.8444543,
+    -77.084497
+  ],
+  "2660 S Shirlington Rd , Arlington, VA 22206": [
+    38.843847,
+    -77.085816
+  ],
+  "39 Hambletonian Rd , Chester, NY 10918": [
+    41.3148003,
+    -74.2975884
+  ],
+  "60 Kass Rd , White Plains, NY 10605": [
+    41.0158607,
+    -73.7322476
+  ],
+  "16 Burning Tree Rd , Swansea, MA 02777": [
+    41.7501666,
+    -71.2484353
+  ],
+  "12708 Cross Dale Drive , Huntersville, NC 28078": [
+    35.393248,
+    -80.8728286
+  ],
+  "52 Laurel Lane , Williamsville, NY 14221": [
+    null,
+    null
+  ],
+  "133 Tanglewood Dr , Orchard Park, NY 14127": [
+    42.7431968,
+    -78.7076234
+  ],
+  "667 N Broad Street , Philadelphia, PA 19123": [
+    39.9657403,
+    -75.1602426
+  ],
+  "667 North Broad Steet , Philadelphia, PA 19123": [
+    null,
+    null
+  ],
+  "6333 N Green Bay Rd , Mikwaukee, WI 53172": [
+    null,
+    null
+  ],
+  "100 Valley Drive Suite 200, Pearl, MS 39208": [
+    null,
+    null
+  ],
+  "9830 S 7th Ave , Inglewood, CA 90305": [
+    null,
+    null
+  ],
+  "768 Clearmont Dr , Pearl, MS 39208": [
+    32.2501481,
+    -90.1349567
+  ],
+  "600 Giffen Ave , Canonsburg, PA 15317": [
+    null,
+    null
+  ],
+  "100 Valley Drive Ste 200 , Pearl, MS 39208": [
+    null,
+    null
+  ],
+  "4400 Mangum Drive , Flowood, MS 39288": [
+    null,
+    null
+  ],
+  "2828 Lemmon Ave E Unit 3112, Dallas, TX 75204": [
+    null,
+    null
+  ],
+  "777 Scudders Mill Rd , Plainsboro, NJ 08540": [
+    40.3428852,
+    -74.6078553
+  ],
+  "221 Misty Dawn Lane , Charlotte, NC 28270": [
+    35.1313675,
+    -80.7546948
+  ],
+  "5639 Willow Wood Ln , Dallas, TX 75252": [
+    33.0115114,
+    -96.8118752
+  ],
+  "11 DEERFIELD CIRCLE , SEWELL, NJ 08080": [
+    null,
+    null
+  ],
+  "41 Peninsula Dr , Madison, MS 39110": [
+    null,
+    null
+  ],
+  "3916 Coker Rd , Madison, MS 39110": [
+    32.4741755,
+    -90.2256314
+  ],
+  "75 Douglas St , St Paul, MN 55102": [
+    null,
+    null
+  ],
+  "3 Fallow Way , Monroe Township, NJ 08831": [
+    40.2531007,
+    -74.4599305
+  ],
+  "127 S Forest Rd , Amherst, NY 14221": [
+    42.9567795,
+    -78.7596211
+  ],
+  "200 Valley Drive , Pearl, MS 38208": [
+    32.2757061,
+    -90.0637334
+  ],
+  "4400 Magnum Dr , Flowood, MS 39232": [
+    32.3196177,
+    -90.1075649
+  ],
+  "120 Broadway Ste 1020 , New York, NY 10271": [
+    null,
+    null
+  ]
+}

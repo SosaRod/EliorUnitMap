@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Corporate Unit Locations</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet CSS (no integrity/crossorigin) -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <!-- MarkerCluster CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+  />
+
+  <style>
+    html, body { height:100%; margin:0; padding:0; }
+    #map { width:100%; height:100%; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <!-- Leaflet JS (no integrity/crossorigin) -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- MarkerCluster JS -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+  <script>
+    // 1) Initialize map centered on USA
+    const map = L.map('map').setView([39.8283, -98.5795], 4);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // 2) Create a marker cluster group
+    const markers = L.markerClusterGroup();
+
+    // 3) Load GeoJSON and add to cluster
+    fetch('./data/units.geojson')
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
+        return res.json();
+      })
+      .then(geojson => {
+        const layer = L.geoJSON(geojson, {
+          pointToLayer: (feat, latlng) => L.marker(latlng),
+          onEachFeature: (feat, layer) => {
+            const p = feat.properties;
+            layer.bindPopup(
+              `<strong>${p.unit_number} – ${p.unit_name}</strong><br/>
+               ${p.company}<br/>
+               Opened: ${p.opening_date}`
+            );
+          }
+        });
+        markers.addLayer(layer);
+        map.addLayer(markers);
+
+        // 4) Zoom map to show all points
+        map.fitBounds(markers.getBounds(), { padding: [20, 20] });
+      })
+      .catch(err => console.error('GeoJSON load error:', err));
+  </script>
+</body>
+</html>

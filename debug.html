@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Debug Unit Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet CSS (no integrity/crossorigin) -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <style>
+    html, body, #map { height:100%; margin:0; padding:0; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <!-- Leaflet JS (no integrity/crossorigin) -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+    // Debug banner
+    console.log('🎉 debug.html script is running');
+
+    // 1) Initialize the map
+    const map = L.map('map').setView([39.8283, -98.5795], 4);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // 2) Fetch your GeoJSON and log everything
+    console.log('Attempting fetch of ./data/units.geojson…');
+    fetch('./data/units.geojson')
+      .then(res => {
+        console.log('Fetch response:', res.status, res.statusText);
+        return res.text();
+      })
+      .then(text => {
+        console.log('Raw text length:', text.length);
+        let geojson;
+        try {
+          geojson = JSON.parse(text);
+          console.log('Parsed GeoJSON object:', geojson);
+        } catch (err) {
+          console.error('JSON parse error:', err);
+          throw err;
+        }
+        // 3) Add features to the map
+        L.geoJSON(geojson, {
+          onEachFeature: (feat, layer) => {
+            layer.bindPopup(JSON.stringify(feat.properties));
+          }
+        }).addTo(map);
+      })
+      .catch(err => console.error('Fetch / parsing / rendering error:', err));
+  </script>
+</body>
+</html>
